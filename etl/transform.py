@@ -114,7 +114,7 @@ def transform_data():
 
     # Keeping only relavant columns
     cols = ['HTAN Participant ID','Ethnicity', 'Race', 'Age at Diagnosis' ,'Year of Diagnosis', 'Tumor Grade',
-            'Days to Last Follow up', 'Days to Last Known Disease Status','Days to Recurrence' ]
+            'Days to Last Follow up', 'Days to Lsast Known Disease Status','Days to Recurrence', 'ERBB2', 'ESR1','HER2', 'PGR' ]
     merged_df = merged_df.loc[:, cols]
 
     # Convert 'Not Applicable' to NA:
