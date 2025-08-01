@@ -14,7 +14,7 @@ def standardize_tumor_values(diagnostics_df):
     mapping = {"High Grade": "G3",
                "Low Grade": "G2",
                "Intermediate Grade": "G1",
-               "unknown": None}
+               "unknown": np.nan}
     
     diagnostics_df_copy = diagnostics_df.copy()
     diagnostics_df_copy['Tumor Grade'] = diagnostics_df_copy['Tumor Grade'].map(mapping)
@@ -31,7 +31,7 @@ def standardize_race(demographics_df):
     None"""
     mapping = {"Alive": 1,
                "Dead": 0,
-               "unkown": None}
+               "unkown": np.nan}
     
     demographics_df_copy = demographics_df.copy()
     demographics_df_copy['Race'] = demographics_df_copy['Race'].map(mapping)
@@ -48,7 +48,7 @@ def standardize_ethnicity(demographics_df):
     None"""
     mapping = {"hispanic or latino": 1,
                "not hispanic or latino": 0,
-               "unkown": None}
+               "unkown": np.nan}
     
     demographics_df_copy = demographics_df.copy()
     demographics_df_copy['Ethnicity'] = demographics_df_copy['Ethnicity'].map(mapping)
@@ -67,7 +67,7 @@ def tidy_molecular_test(molecular_test_df):
     cols = ["HTAN Participant ID", "Timepoint Label", "Gene Symbol", "Test Result"]
     molecular_test_df = molecular_test_df.loc[:, cols]
 
-    molecular_test_df['Test Result'].apply(lambda row: None if row == "unknown" else row)
+    molecular_test_df['Test Result'].apply(lambda row: np.nan if row == "unknown" else row)
 
     # Step 4: Pivot into tidy format
     tidy_molecular_test_df = molecular_test_df.pivot_table(
@@ -88,7 +88,7 @@ def standardize_age_at_diagnosis(diagnostics_df):
     Returns:
     None"""
 
-    diagnostics_df['Age at Diagnosis'] = diagnostics_df['Age at Diagnosis'].apply(lambda row: None if row == 'Not Applicable' else row)
+    diagnostics_df['Age at Diagnosis'] = diagnostics_df['Age at Diagnosis'].apply(lambda row: np.nan if row == 'Not Applicable' else row)
     diagnostics_df['Age at Diagnosis'] = diagnostics_df['Age at Diagnosis'].astype(np.float32) / 365.25
 
     return diagnostics_df
@@ -116,6 +116,9 @@ def transform_data():
     cols = ['HTAN Participant ID','Ethnicity', 'Race', 'Age at Diagnosis' ,'Year of Diagnosis', 'Tumor Grade',
             'Days to Last Follow up', 'Days to Last Known Disease Status','Days to Recurrence' ]
     merged_df = merged_df.loc[:, cols]
+
+    # Convert 'Not Applicable' to NA:
+    merged_df = merged_df.map(lambda x: np.nan if x == "Not Applicable" else x)
 
     # Export to .csv
     merged_df.to_csv('data/transformed_data/merged_df.csv', index=False)
