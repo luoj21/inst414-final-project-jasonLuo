@@ -113,12 +113,29 @@ def transform_data():
     merged_df = pd.merge(merged_df, molecular_test, on='HTAN Participant ID', how='left')
 
     # Keeping only relavant columns
-    cols = ['HTAN Participant ID','Ethnicity', 'Race', 'Age at Diagnosis' ,'Year of Diagnosis', 'Tumor Grade',
-            'Days to Last Follow up', 'Days to Last Known Disease Status','Days to Recurrence', 'ERBB2', 'ESR1','HER2', 'PGR' ]
+    cols = ['HTAN Participant ID','Ethnicity', 'Age at Diagnosis' ,'Year of Diagnosis', 'Tumor Grade', 
+            'Days to Last Known Disease Status','Days to Recurrence', 'ERBB2', 'ESR1','HER2', 'PGR']
     merged_df = merged_df.loc[:, cols]
 
     # Convert 'Not Applicable' to NA:
     merged_df = merged_df.map(lambda x: np.nan if x == "Not Applicable" else x)
+
+    # Remove rows where tumor grade is NA
+    merged_df = merged_df.dropna(subset=['Tumor Grade'])
+
+    # Remove rows where ethnicity is NA
+    merged_df = merged_df.dropna(subset=['Ethnicity'])
+
+    # One hot encoding the molecular test for the 4 genes
+    merged_df['ERBB2'] = merged_df['ERBB2'].apply(lambda row: 1 if row == 'positive' else 0)
+    merged_df['ESR1'] = merged_df['ESR1'].apply(lambda row: 1 if row == 'positive' else 0)
+    merged_df['HER2'] = merged_df['HER2'].apply(lambda row: 1 if row == 'positive' else 0)
+    merged_df['PGR'] = merged_df['PGR'].apply(lambda row: 1 if row == 'positive' else 0)
+
+    # Turn NAs in Days to Recurrence to 0
+    merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].fillna(0)
+
+    print(f'### Data has any NAs: {merged_df.isna().any().any()} ###')
 
     # Export to .csv
     merged_df.to_csv('data/transformed_data/merged_df.csv', index=False)

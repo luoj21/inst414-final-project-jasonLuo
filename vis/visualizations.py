@@ -31,7 +31,7 @@ def plot_confusion_matrix(y_true, y_pred, normalize=False, title='Confusion Matr
     plt.ylabel('True Label')
     plt.title(title)
     plt.tight_layout()
-    plt.savefig(f'data/outputs{title}.png', dpi = 200)
+    plt.savefig(f'data/outputs/{title}.png', dpi = 200)
     plt.show()
 
 
@@ -100,28 +100,9 @@ def plot_days_to_last_follow_up(merged_df):
     None
     """
     sns.histplot(data = merged_df,
-                 x = 'Days to Last Follow up',
+                 x = 'Days to Last Known Disease Status',
                  kde=True,
                  bins=30)
-    plt.title('Distribtion of Days to Last Follow Up Across Patients')
+    plt.title('Distribtion of Days to Last Known Disease Status')
     plt.savefig('data/outputs/days_last_follow_up_hist_plot.png', dpi = 200)
     plt.show()
-
-
-# def plot_race(merged_df):
-#     """Plots number of patients per race on bar plot
-    
-#     Parameter:
-#     - merged_df: the merged df that is the output from the etl
-
-#     Returns:
-#     None
-#     """
-#     class_counts = merged_df.groupby('Race').size().reset_index(name = 'counts')
-
-#     sns.barplot(data = class_counts,
-#                 x = 'Race',
-#                 y = 'counts')
-#     plt.title('Number of Patients With Specific Race')
-#     plt.savefig('data/outputs/race_counts_plot.png', dpi = 200)
-#     plt.show()

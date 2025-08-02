@@ -13,14 +13,13 @@ def main():
     data = transform_data()
 
     ## create and evaluate model(s)
-    evaluate_model()
+    evaluate_model(data)
 
     ## create visualizations
     plot_class_counts(data)
     plot_ages(data)
     plot_ethnicity(data)
     plot_days_to_last_follow_up(data)
-
 
 
 if __name__ == "__main__":
