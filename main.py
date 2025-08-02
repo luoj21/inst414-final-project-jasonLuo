@@ -9,8 +9,8 @@ from etl.transform import *
 
 def main(): 
     ## transform data:
-    extract_data()
-    data = transform_data()
+    demographics, diagnostics, molecular_test = extract_data()
+    data = transform_data(demographics, diagnostics, molecular_test)
 
     ## create and evaluate model(s)
     evaluate_model(data)

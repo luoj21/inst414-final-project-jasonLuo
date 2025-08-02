@@ -96,11 +96,19 @@ def standardize_age_at_diagnosis(diagnostics_df):
 
 
 
-def transform_data():
+def transform_data(demographics, diagnostics, molecular_test):
+    """Transform and load the demographics, diagnostics, and molecular_test datasets
+    into one data set for analysis
+    
+    Parameters:
+    demographics: demographics dataset that contains demographic info of DCIS patients
+    diagnostics: diagnostics dataset that contains diagnostics info of the DCIS patients
+    molecular_test: molecular testing dataset containing molecular tests done on DCIS patients
+    
+    Returns:
+    merged_df: the transformed / cleaned dataset that has info from the demographics,
+    diagnostics, and molecular test data"""
 
-    demographics = pd.read_csv('data/raw_data/demographics.csv')
-    diagnostics = pd.read_csv('data/raw_data/diagnostics.csv')
-    molecular_test = pd.read_csv('data/raw_data/molecular_test.csv')
 
     demographics = standardize_ethnicity(demographics_df=demographics)
     demographics = standardize_race(demographics_df=demographics)
