@@ -6,6 +6,10 @@ from sklearn.model_selection import GridSearchCV
 
 
 class DCIS_classification_model:
+    """Contains 4 classification algorithms to use for DCIS risk classification
+    
+    Parameters:
+    model_type: string representing the algorithm to use; can be either svm, lda, forest, or knn"""
     def __init__(self, model_type: str):
         self.model = None
         self.model_type = model_type.lower()
@@ -23,6 +27,7 @@ class DCIS_classification_model:
             raise ValueError("Incompatable model type")
         
     def get_param_grid(self):
+        """Gets a parameter grid to be used for Grid Search CV"""
 
         if self.model_type == "svm":
             return {'C': [0.1, 1, 10],'kernel': ['linear', 'rbf']}
@@ -37,6 +42,12 @@ class DCIS_classification_model:
     
         
     def fit(self, X_train, y_train, use_grid_search):
+        """Trains a model with or without grid search cv
+        
+        Parameters:
+        - X_train: training dataset of features
+        - y_train: training dataset of labels
+        - use_grid_search: boolean that determines whether or not to use GridSearchCV for training"""
         self.use_grid_search = use_grid_search
 
         if self.use_grid_search:
@@ -51,6 +62,6 @@ class DCIS_classification_model:
         
     
     def predict(self, X_test):
-
+        """Returns predicted classes of the trained model"""
         return self.model.predict(X_test)
     

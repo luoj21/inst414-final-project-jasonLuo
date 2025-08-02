@@ -39,10 +39,10 @@ def evaluate_model(merged_df):
     y = merged_df['Tumor Grade']
     y = create_numerical_classes(y)
 
-    model = DCIS_classification_model("lda")
+    model = DCIS_classification_model("forest")
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42, shuffle=True)
-    model.fit(X_train, y_train, use_grid_search=True)
+    model.fit(X_train, y_train, use_grid_search=False)
     y_pred = model.predict(X_test)
 
     print(f"Displaying classification report for {model.model_type.upper()}: \n")
