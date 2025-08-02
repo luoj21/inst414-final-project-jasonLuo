@@ -6,15 +6,19 @@ import analysis.evaluate_model
 from vis.visualizations import *
 
 
-def main():
-    
+def main(): 
     ## transform data:
-    etl.transform.transform_data()
+    data = etl.transform.transform_data()
 
     ## create and evaluate model(s)
     analysis.evaluate_model.evaluate_model()
 
     ## create visualizations
+    plot_class_counts(data)
+    plot_ages(data)
+    plot_ethnicity(data)
+    plot_days_to_last_follow_up(data)
+    
 
 
 

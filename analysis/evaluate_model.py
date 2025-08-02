@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-from models import DCIS_classification_model
+from analysis.models import DCIS_classification_model
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, accuracy_score
 
@@ -26,6 +26,9 @@ def evaluate_model():
     print(f"Displaying classification report for {model.model_type.upper()}: \n")
     print(classification_report(y_pred=y_pred, y_true=y_test))
     print(f"The overall accuracy of {model.model_type.upper()} is {accuracy_score(y_pred=y_pred,y_true=y_test)}")
+
+
+
 
 
 if __name__ == "__main__":
