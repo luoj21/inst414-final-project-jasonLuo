@@ -7,5 +7,6 @@ Current detection tools for DCIS include mammograms that indicate whether or not
 To get started:
 - Do git clone ```https://github.com/luoj21/inst414-final-project-jasonLuo.git```
 - Create a virtual envrionment: ```python3 -m venv .venv```
+- Activate the virtual envrionment: ```source .venv/bin/activate```
 - Then do ```pip install -r requirements.txt```
 - In the project folder run ```python main.py```

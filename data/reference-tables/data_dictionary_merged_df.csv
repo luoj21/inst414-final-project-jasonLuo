@@ -1,0 +1,12 @@
+Attribute,Description,Required,Conditional If,Data Type,Valid Values
+HTAN Participant ID (PRIMARY KEY),Unique identifier for each patient,yes,,String,
+Ethnicity,"If hispanic or latino, this takes 1, else it is 0",yes,,Float,"1, 0"
+Age at Diagnosis,Age of diagnosis in years,yes,,Float,
+Year of Diagnosis,the year of diagnosis,yes,,Float,
+Tumor Grade,"Severity of the tumor risk, G1 being the lowest and G3 being the highest",yes,,String,"G1, G2, G3"
+Days to Last Known Disease Status,"Time interval from the date of last follow up to the date of initial pathologic diagnosis, represented as a calculated number of days.",yes,,String,
+Days to Recurrence,Number of days between the date used for index and the date the patient's disease recurred. ,yes,,String,
+ERBB2,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
+ESR1,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
+HER2,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
+PGR,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
