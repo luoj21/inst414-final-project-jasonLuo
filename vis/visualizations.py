@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
+import pandas as pd
 
 from sklearn.metrics import confusion_matrix
 
@@ -68,6 +70,25 @@ def plot_ages(merged_df):
                  x = 'Age at Diagnosis')
     plt.title('Distribtion of DCIS Patient Ages')
     plt.savefig('data/outputs/age_hist_plot.png', dpi = 200)
+    plt.show()
+
+def plot_tumors_by_age(merged_df):
+
+    # class_counts = merged_df.groupby('Tumor Grade').size().reset_index(name = 'counts')
+    gap = (max(merged_df['Age at Diagnosis']) - min(merged_df['Age at Diagnosis'])) / 4
+    age_bins = list(np.arange(min(merged_df['Age at Diagnosis']), max(merged_df['Age at Diagnosis']), gap))
+    age_bins.append(99)
+    labels = [1,2,3,4]
+
+    merged_df_copy = merged_df.copy()
+    merged_df_copy['age_group'] = pd.cut(merged_df_copy['Age at Diagnosis'], bins=age_bins, labels=labels, right=True)
+    result = merged_df_copy.groupby(['age_group', 'Tumor Grade'], observed=True).size().reset_index(name='Count')
+
+    g = sns.barplot(data=result, x='age_group', y='Count', hue='Tumor Grade')
+    g.set_xticks(range(0, 4))
+    g.set_xticklabels(['[32 - 45]', '[45 - 59]', '[59 - 73]', '[73 - 99]'])
+    plt.title('Number of Patients With Specific DCIS Risk Separated By Age Group')
+    plt.savefig('data/outputs/tumors_by_age.png', dpi = 200)
     plt.show()
 
 

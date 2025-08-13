@@ -104,9 +104,9 @@ def create_age_tumor_interaction(merged_df):
     None"""
 
 
-    mapping = {"G3": 3,
-               "G2": 2,
-               "G1": 1}
+    mapping = {"G3": 1.75,
+               "G2": 1.5,
+               "G1": 1.25}
     numerical_grade = merged_df['Tumor Grade'].map(mapping)
 
     merged_df['Age_Grade_Score'] = numerical_grade * merged_df['Age at Diagnosis']
@@ -140,7 +140,7 @@ def transform_data(demographics, diagnostics, molecular_test):
 
     # Keeping only relavant columns
     cols = ['HTAN Participant ID','Ethnicity', 'Age at Diagnosis' ,'Year of Diagnosis', 'Tumor Grade', 
-            'Days to Last Known Disease Status','Days to Recurrence', 'ERBB2', 'ESR1','HER2', 'PGR']
+            'Days to Last Known Disease Status','Days to Recurrence', 'Days to Last Follow up','ERBB2', 'ESR1','HER2', 'PGR']
     merged_df = merged_df.loc[:, cols]
 
     # Convert 'Not Applicable' to NA:
@@ -166,13 +166,14 @@ def transform_data(demographics, diagnostics, molecular_test):
     # Convert to appropriate data types
     merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].astype(int)
     merged_df['Days to Last Known Disease Status'] = merged_df['Days to Last Known Disease Status'].astype(int)
+    merged_df['Days to Last Follow up'] = merged_df['Days to Last Follow up'].astype(int)
 
     # New feature that counts the number of positive biomarkers
     merged_df['Num_Positive_Biomarkers'] = merged_df['ERBB2'] + merged_df['ESR1'] + merged_df['HER2'] + merged_df['PGR']
 
-    # Nuew feature for age vs tumor grade interaction:
+    # New feature for age vs tumor grade interaction:
     merged_df = create_age_tumor_interaction(merged_df)
-
+ 
     # Export to .csv
     merged_df.to_csv('data/transformed_data/merged_df.csv', index=False)
     return merged_df
