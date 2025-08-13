@@ -1,0 +1,829 @@
+Component,HTAN Participant ID,Ethnicity,Gender,Race,Vital Status,Days to Birth,Country of Residence,Age Is Obfuscated,Year Of Birth,Occupation Duration Years,Premature At Birth,Weeks Gestation at Birth,entityId,Id,Cause of Death,Cause of Death Source,Days to Death,Days to Vital Status Reference,Year of Death
+Demographics,HTA6_2411,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,78878b47-9076-4369-ac61-6eb4d5d61f88,unknown,unknown,,146.0,Not Applicable
+Demographics,HTA6_2412,not hispanic or latino,Female,white,Alive,,,,,,,,,bb03d963-addb-4ec3-b7a7-26348375a448,unknown,unknown,,69.0,Not Applicable
+Demographics,HTA6_2413,not hispanic or latino,Female,white,Alive,,,,,,,,,90df2d85-d977-456a-a209-67d0aa249002,unknown,unknown,,189.0,Not Applicable
+Demographics,HTA6_2414,not hispanic or latino,Female,white,Alive,,,,,,,,,29955c93-e2af-4ff1-868d-2fb127da9371,unknown,unknown,,88.0,Not Applicable
+Demographics,HTA6_2436,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,63c7db5d-f0d4-4cd7-a929-cd00960b2cbb,unknown,unknown,,80.0,Not Applicable
+Demographics,HTA6_2437,not hispanic or latino,Female,white,Alive,,,,,,,,,59d6e366-0c87-485a-8a79-29157c84cbcd,unknown,unknown,,33.0,Not Applicable
+Demographics,HTA6_2438,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,3c1f7d27-ce43-4670-bfea-2d3cfa47c708,unknown,unknown,,72.0,Not Applicable
+Demographics,HTA6_2439,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,48be7c01-e819-4c19-8920-c934569ab0f9,unknown,unknown,,62.0,Not Applicable
+Demographics,HTA6_2440,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,37bc6c6c-9934-4e58-ae60-a56527a91fdb,unknown,unknown,,115.0,Not Applicable
+Demographics,HTA6_2441,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,2178e77b-47e2-4fda-8c34-809c4e3756ed,unknown,unknown,,224.0,Not Applicable
+Demographics,HTA6_2442,not hispanic or latino,Female,white,Alive,,,,,,,,,da6b0aa4-2a14-4290-9219-1bba2ae1c709,unknown,unknown,,22.0,Not Applicable
+Demographics,HTA6_2415,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,6612f6c9-8e55-49f7-ba30-adc55ce4686e,unknown,unknown,,52.0,Not Applicable
+Demographics,HTA6_2416,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,04386762-8c0c-41de-9fee-919d0fe923cd,unknown,unknown,,59.0,Not Applicable
+Demographics,HTA6_2417,not hispanic or latino,Female,white,Alive,,,,,,,,,c7470d90-fb6e-4356-80fb-2f1720b3dcaa,unknown,unknown,,116.0,Not Applicable
+Demographics,HTA6_2418,not hispanic or latino,Female,white,Alive,,,,,,,,,ef006878-2394-4111-8102-8ff3584a7460,unknown,unknown,,144.0,Not Applicable
+Demographics,HTA6_2419,not hispanic or latino,Female,white,Alive,,,,,,,,,ebf127a7-1793-45a3-b0fb-ee813159e800,unknown,unknown,,127.0,Not Applicable
+Demographics,HTA6_2420,not hispanic or latino,Female,white,Alive,,,,,,,,,066cefe5-48ee-44a9-b425-fe1280f70c0b,unknown,unknown,,42.0,Not Applicable
+Demographics,HTA6_2421,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,49cf2512-7016-45da-b396-07cea77a3095,unknown,unknown,,71.0,Not Applicable
+Demographics,HTA6_2422,not hispanic or latino,Female,white,Alive,,,,,,,,,a6966e73-24f1-4189-a449-aa0ec3605956,unknown,unknown,,127.0,Not Applicable
+Demographics,HTA6_2423,not hispanic or latino,Female,white,Alive,,,,,,,,,4de8c112-3d6d-4cc6-a8a7-a92e47f0955a,unknown,unknown,,171.0,Not Applicable
+Demographics,HTA6_2424,not hispanic or latino,Female,white,Alive,,,,,,,,,6642ceaf-3a75-47ce-b13a-fbc54b5a309f,unknown,unknown,,148.0,Not Applicable
+Demographics,HTA6_2425,not hispanic or latino,Female,white,Alive,,,,,,,,,eccc96d8-31c6-428b-8aa5-1aa925a3f1a1,unknown,unknown,,67.0,Not Applicable
+Demographics,HTA6_2426,not hispanic or latino,Female,black or african american,Dead,,,,,,,,,a346639b-9fc9-4208-9938-f2aca348779a,unknown,unknown,,,2014.0
+Demographics,HTA6_2427,not hispanic or latino,Female,white,Alive,,,,,,,,,f8c03d42-a012-484a-ad47-0c14866099ea,unknown,unknown,,66.0,Not Applicable
+Demographics,HTA6_2428,not hispanic or latino,Female,white,Alive,,,,,,,,,f89bcb0f-1227-4fba-982f-d48d658cf24e,unknown,unknown,,72.0,Not Applicable
+Demographics,HTA6_2429,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,fdeba647-d003-4963-840e-c5d626e81c32,unknown,unknown,,99.0,Not Applicable
+Demographics,HTA6_2430,not hispanic or latino,Female,white,Alive,,,,,,,,,58e5826c-ed49-4982-8ed1-2e192e31d0ce,unknown,unknown,,104.0,Not Applicable
+Demographics,HTA6_2431,not hispanic or latino,Female,white,unknown,,,,,,,,,14fd7b82-d1a9-432a-8cc7-6f86c01dcdef,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2432,not hispanic or latino,Female,white,Alive,,,,,,,,,115afcb9-de13-42ef-b318-f499c761e5ee,unknown,unknown,,192.0,Not Applicable
+Demographics,HTA6_2433,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,959005da-ec78-4f6c-8372-b149ca89186d,unknown,unknown,,73.0,Not Applicable
+Demographics,HTA6_2434,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,30918e3e-8816-4eb1-9252-561ad47bdf45,unknown,unknown,,73.0,Not Applicable
+Demographics,HTA6_2435,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,a142c5a8-e034-4977-a863-6e078ba997d7,unknown,unknown,,73.0,Not Applicable
+Demographics,HTA6_7,not hispanic or latino,Female,white,Dead,,,,,,,,syn25049549,30a88d0d-3663-4616-9db3-3ed2f8307ce8,unknown,unknown,,,2019.0
+Demographics,HTA6_27,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049550,d188520d-f7da-49b7-8456-7c163c30b61d,,,,2676.0,Not Applicable
+Demographics,HTA6_30,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049551,affadedd-0099-40ec-84e7-ffe6435e6948,,,,2190.0,Not Applicable
+Demographics,HTA6_31,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049552,beaf69ad-cd6f-4b36-92c4-81436791a9d3,,,,2919.0,Not Applicable
+Demographics,HTA6_33,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049553,5c5369c3-5cdc-4b5b-8d2f-2e2b8dade46b,,,,2737.0,Not Applicable
+Demographics,HTA6_34,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049554,a7876775-aae9-42c5-bc45-116ed0f6dd84,,,,3953.0,Not Applicable
+Demographics,HTA6_41,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049555,c44cd7cd-8b71-4451-a3f5-6f824bf1cad5,,,,2737.0,Not Applicable
+Demographics,HTA6_42,hispanic or latino,Female,unknown,Alive,,,,,,,,syn25049556,c0f23c8b-de2f-4e88-bd61-3698a24d7895,,,,1885.0,Not Applicable
+Demographics,HTA6_43,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049557,a543cb3a-66db-45d0-bb06-12f7ea23b772,,,,2676.0,Not Applicable
+Demographics,HTA6_46,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049558,0e32dd04-3396-4962-9a21-d343593d9c36,,,,4379.0,Not Applicable
+Demographics,HTA6_49,not hispanic or latino,Female,asian,Alive,,,,,,,,syn25049559,0c887dcc-c93e-48a1-a709-833d3414720f,,,,2554.0,Not Applicable
+Demographics,HTA6_57,not hispanic or latino,Female,asian,Alive,,,,,,,,syn25049560,64898222-6433-46bf-a562-df0879eff8c9,,,,4379.0,Not Applicable
+Demographics,HTA6_61,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049561,5968b2b0-a380-43c2-a8a9-19a27702af81,,,,2585.0,Not Applicable
+Demographics,HTA6_69,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049562,c0e1920a-3c86-4656-963f-60c02282fdc3,,,,3862.0,Not Applicable
+Demographics,HTA6_71,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049563,55799261-3208-4eb2-8d14-d14812babc85,,,,2038.0,Not Applicable
+Demographics,HTA6_75,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049564,497e881f-6301-4537-bd1e-9eeb8369c6f8,,,,3588.0,Not Applicable
+Demographics,HTA6_76,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049565,9bbcf3c0-a7ef-4eaa-a422-1ec8bfa9677f,,,,3619.0,Not Applicable
+Demographics,HTA6_78,hispanic or latino,Female,unknown,Alive,,,,,,,,syn25049566,bb6c7929-bd2e-472b-a445-00c97a67233c,,,,3892.0,Not Applicable
+Demographics,HTA6_82,unknown,Female,white,Alive,,,,,,,,syn25049567,2ecc7b62-2ff8-47b2-b845-654d89424086,,,,3710.0,Not Applicable
+Demographics,HTA6_83,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049568,004af20d-c070-4704-a7cc-6b0924b97abb,,,,3771.0,Not Applicable
+Demographics,HTA6_84,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049569,09ac685d-69da-4539-9dc3-35373fcd76ce,,,,3771.0,Not Applicable
+Demographics,HTA6_85,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049570,85b0140e-7f3c-44d9-84f3-8be767e4b1e4,,,,4105.0,Not Applicable
+Demographics,HTA6_86,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049571,35398b09-249d-4dbc-9bc1-64be17bbe981,,,,3163.0,Not Applicable
+Demographics,HTA6_101,unknown,Female,unknown,Alive,,,,,,,,syn25049572,e22f8b43-106d-4646-97d9-370e39b90f7a,,,,3740.0,Not Applicable
+Demographics,HTA6_103,unknown,Female,unknown,Alive,,,,,,,,syn25049573,2e0c9470-6055-4cc9-8a45-72c51b957a9d,,,,2494.0,Not Applicable
+Demographics,HTA6_107,unknown,Female,black or african american,Alive,,,,,,,,syn25049574,e9f23d5c-2097-4cf0-a4d9-181b11d30cfd,,,,2762.0,Not Applicable
+Demographics,HTA6_118,unknown,Female,black or african american,Alive,,,,,,,,syn25049575,53b575b1-4d69-4113-8b34-ead68585ec3c,,,,2919.0,Not Applicable
+Demographics,HTA6_120,unknown,Female,unknown,Alive,,,,,,,,syn25049576,8fed3d17-7170-46d4-8a11-c99fa320f448,,,,2463.0,Not Applicable
+Demographics,HTA6_154,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049577,28302e0e-7a34-463d-bd22-caa4507721ff,,,,1825.0,Not Applicable
+Demographics,HTA6_159,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049578,8687a1e6-18ac-4610-b445-e09738540c6d,,,,2767.0,Not Applicable
+Demographics,HTA6_6,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049579,775b2497-1924-408e-8e72-789de3becf72,,,,3710.0,Not Applicable
+Demographics,HTA6_9,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049580,a41b1d02-58f0-4289-a2e3-f7a8d998d8e1,,,,4105.0,Not Applicable
+Demographics,HTA6_10,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049581,7da95e7f-4ef7-4909-a131-e35c144000de,,,,2858.0,Not Applicable
+Demographics,HTA6_15,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049582,c9b483b9-a46f-495c-ac02-7c11b3e15a30,,,,6234.0,Not Applicable
+Demographics,HTA6_16,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049583,340d64a4-e0ab-49df-95a1-358eed15bfee,,,,5230.0,Not Applicable
+Demographics,HTA6_17,unknown,Female,white,Alive,,,,,,,,syn25049584,05f6e7c3-59e6-4f9d-809f-93bd8c35c485,,,,2494.0,Not Applicable
+Demographics,HTA6_18,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049585,1bd70213-7a96-47ef-ac17-417af092cdc6,,,,2615.0,Not Applicable
+Demographics,HTA6_19,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049586,387bea7d-f38e-40fe-8828-4d70ba403367,,,,1825.0,Not Applicable
+Demographics,HTA6_24,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049587,9ed0fc8f-da00-40e7-96d7-1f418391f75c,,,,2980.0,Not Applicable
+Demographics,HTA6_25,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049588,a9b45252-df21-4418-a621-02aefcca1b25,,,,4044.0,Not Applicable
+Demographics,HTA6_26,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049589,4b33eac8-a5d2-425c-9d74-16564ecf04dd,,,,3558.0,Not Applicable
+Demographics,HTA6_29,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049590,e424a0c0-1d80-437a-bfb9-684f6ed29992,,,,1825.0,Not Applicable
+Demographics,HTA6_32,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049591,0ba6e101-91b2-4d4f-850c-2cd8f8edc80a,,,,4562.0,Not Applicable
+Demographics,HTA6_35,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049592,a43cb513-ee5c-410f-b208-879881452ed7,,,,4075.0,Not Applicable
+Demographics,HTA6_38,not hispanic or latino,Female,black or african american,unknown,,,,,,,,syn25049593,947cd1d3-4ca4-4f8e-85ff-a00051302828,,,,,Not Applicable
+Demographics,HTA6_39,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049594,da87cb34-6959-44e1-b22e-ba35b6dd2a8b,,,,2494.0,Not Applicable
+Demographics,HTA6_40,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049595,c9f8c5c6-b177-4e07-bf9e-fc58afc023b1,,,,2190.0,Not Applicable
+Demographics,HTA6_44,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049596,69f5cea3-2304-4090-99cd-10f524bfd5d3,,,,3102.0,Not Applicable
+Demographics,HTA6_45,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049597,61f95992-37a1-422a-a141-b898ae4b822e,,,,3345.0,Not Applicable
+Demographics,HTA6_48,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049598,3912d5e1-b53a-4132-860c-e8ab1f3f1693,,,,2919.0,Not Applicable
+Demographics,HTA6_51,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049599,fc81c30f-18c5-46ec-a2ca-3d8e23724c1a,,,,2767.0,Not Applicable
+Demographics,HTA6_52,not hispanic or latino,Female,unknown,Alive,,,,,,,,syn25049600,1223b324-645e-4af5-a793-e8027f24255e,,,,2007.0,Not Applicable
+Demographics,HTA6_53,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049601,5a953023-96a0-4be5-aaad-2517be364c26,,,,5230.0,Not Applicable
+Demographics,HTA6_56,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049602,5a198abb-b629-404b-af09-513b346876ab,,,,2129.0,Not Applicable
+Demographics,HTA6_70,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049603,38db6750-e5d0-4fbf-be92-53de27e05a8a,,,,2980.0,Not Applicable
+Demographics,HTA6_72,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049604,cc5a1923-a893-4e1d-bb57-989cf4b0bef0,,,,2190.0,Not Applicable
+Demographics,HTA6_73,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049606,c9a64b91-a6bb-4203-83c3-9f17cf3a4c68,,,,4318.0,Not Applicable
+Demographics,HTA6_74,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049607,1c4ec141-6027-41c9-88ac-4d80c6f4b7a8,,,,4014.0,Not Applicable
+Demographics,HTA6_77,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049608,96c07c3e-0c9a-4610-82f5-bfd859481ad9,,,,3011.0,Not Applicable
+Demographics,HTA6_79,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049609,8282ed30-497d-41c9-8cb7-c060f3cf5074,,,,4622.0,Not Applicable
+Demographics,HTA6_80,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049610,bc9551b7-1f4a-434b-84ce-31eb0bbabac0,,,,3132.0,Not Applicable
+Demographics,HTA6_81,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049611,6232da5a-bdf2-4c8e-9edf-a7c077e76e55,,,,2585.0,Not Applicable
+Demographics,HTA6_87,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049612,b7377db9-69b7-4b92-8522-1b7389d0286a,,,,2190.0,Not Applicable
+Demographics,HTA6_105,unknown,Female,unknown,Alive,,,,,,,,syn25049613,de1fd96f-6ea7-4b95-bd92-db6cdb55b551,,,,2615.0,Not Applicable
+Demographics,HTA6_119,unknown,Female,black or african american,Alive,,,,,,,,syn25049614,110914ac-880d-4260-ac31-164c28607833,,,,4379.0,Not Applicable
+Demographics,HTA6_129,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049615,c81990cd-6ece-42a3-b1ae-b73fa29f3477,,,,5474.0,Not Applicable
+Demographics,HTA6_130,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049616,eca7fe36-f2a1-4af3-bf6e-1def3a6573f2,,,,2646.0,Not Applicable
+Demographics,HTA6_131,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049617,8b923f2f-60a5-458a-8dfe-439080ac91c2,,,,2554.0,Not Applicable
+Demographics,HTA6_132,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049618,4fa8269e-7e64-4961-805f-8f8b14988622,,,,3193.0,Not Applicable
+Demographics,HTA6_50,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049619,29248c82-1e6a-419d-809c-99b5714b5613,,,,1946.0,Not Applicable
+Demographics,HTA6_2,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049620,0822906d-3f92-42df-988f-6bb73511b571,,,,1825.0,Not Applicable
+Demographics,HTA6_11,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049621,e7df3393-9ac6-43ce-bf71-f3c770b4d06e,,,,1460.0,Not Applicable
+Demographics,HTA6_13,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049622,3f4f5edf-62df-4d8e-a5fc-f3bd7ca304c4,,,,4014.0,Not Applicable
+Demographics,HTA6_14,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049623,f46ddb50-00d4-4f41-b51d-d62a705bb9b3,,,,2554.0,Not Applicable
+Demographics,HTA6_47,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049624,5d62b6a2-7307-4c8d-8b71-9b47299a769e,,,,1825.0,Not Applicable
+Demographics,HTA6_59,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049625,bc605cf7-9947-4d3a-9e77-aca3b2f9674b,,,,730.0,Not Applicable
+Demographics,HTA6_60,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049626,10a1a073-b7c6-4bd4-a790-3ae72fb4573d,,,,730.0,Not Applicable
+Demographics,HTA6_88,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049627,8144423f-cc30-4782-8734-cf3fddb1ef66,,,,2919.0,Not Applicable
+Demographics,HTA6_91,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049628,29e9b5f7-2b73-4342-b794-98f0252b63e3,,,,1095.0,Not Applicable
+Demographics,HTA6_92,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049629,626bca71-c23b-4991-a3aa-40d61b18d232,,,,4014.0,Not Applicable
+Demographics,HTA6_95,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049630,702b3c3d-dbbb-42a5-bb87-2add64ee7dc3,,,,3284.0,Not Applicable
+Demographics,HTA6_97,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049631,a1103dd3-5b21-454b-9abc-70ee7d6678bf,,,,5109.0,Not Applicable
+Demographics,HTA6_98,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049632,1eafcecd-4022-457c-a9ec-9b0f9f139282,,,,5474.0,Not Applicable
+Demographics,HTA6_100,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049633,c2ce8754-6405-440a-9e97-8c6500e1ec30,,,,4379.0,Not Applicable
+Demographics,HTA6_102,unknown,Female,unknown,Alive,,,,,,,,syn25049634,b0b9e927-b699-42b4-993b-38a150dc75fc,,,,1825.0,Not Applicable
+Demographics,HTA6_112,unknown,Female,black or african american,Alive,,,,,,,,syn25049635,2b95c2af-4b21-4df3-b958-3c6448595341,,,,3284.0,Not Applicable
+Demographics,HTA6_113,unknown,Female,black or african american,Alive,,,,,,,,syn25049636,5d5ec599-3f20-49ce-8455-dfc4b072039c,,,,730.0,Not Applicable
+Demographics,HTA6_114,unknown,Female,black or african american,Alive,,,,,,,,syn25049637,96dbe598-c6e8-40c0-8f65-bcdcd3196395,,,,3284.0,Not Applicable
+Demographics,HTA6_115,unknown,Female,black or african american,Alive,,,,,,,,syn25049638,85cbad57-d665-4b3a-872d-a2475ba2d4c5,,,,2554.0,Not Applicable
+Demographics,HTA6_116,unknown,Female,black or african american,Alive,,,,,,,,syn25049639,3ba20d22-cae7-4014-93bf-08c0b2ee59f6,,,,4014.0,Not Applicable
+Demographics,HTA6_117,unknown,Female,white,Alive,,,,,,,,syn25049640,58162ec0-b1c3-4479-ae92-a1cbe08f636f,,,,2919.0,Not Applicable
+Demographics,HTA6_125,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049641,c9ee30a3-5c18-40dd-8b7b-8728a0016520,,,,4744.0,Not Applicable
+Demographics,HTA6_126,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049642,c61f0a9a-142a-4f85-90cf-0eef0ff1cd1d,,,,4014.0,Not Applicable
+Demographics,HTA6_134,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049643,c85d7d8a-dd1e-4230-8167-33a6a9194e29,,,,2554.0,Not Applicable
+Demographics,HTA6_137,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049644,6c2a3a80-a593-4307-a0ed-c6669ff6b724,,,,2919.0,Not Applicable
+Demographics,HTA6_138,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049645,478cb867-6524-40c0-a921-cf027cb23677,,,,1825.0,Not Applicable
+Demographics,HTA6_139,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049646,41f2df02-6f22-43f3-a441-70f44821710a,,,,2919.0,Not Applicable
+Demographics,HTA6_141,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049647,974fa9f3-57cd-436c-a85e-6c3033df8111,,,,1460.0,Not Applicable
+Demographics,HTA6_145,unknown,Female,white,Alive,,,,,,,,syn25049648,fbd854c7-f3dd-4d0f-9fab-071924dfa991,,,,6569.0,Not Applicable
+Demographics,HTA6_146,unknown,Female,white,Alive,,,,,,,,syn25049649,d0b49790-0780-4599-b9da-36a2073bd2d4,,,,2554.0,Not Applicable
+Demographics,HTA6_148,unknown,Female,white,Alive,,,,,,,,syn25049650,71138657-ecb5-4be9-bf27-471bb1d30a0d,,,,6204.0,Not Applicable
+Demographics,HTA6_149,unknown,Female,white,Alive,,,,,,,,syn25049651,6fffb05c-c92b-4015-8b5f-48f69be87ccf,,,,2919.0,Not Applicable
+Demographics,HTA6_150,unknown,Female,white,Alive,,,,,,,,syn25049652,9db33011-497e-4ab9-8f91-af1061e7adfc,,,,1460.0,Not Applicable
+Demographics,HTA6_157,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049653,3132c35e-e527-441b-bacf-1e5efacdaacc,,,,2554.0,Not Applicable
+Demographics,HTA6_162,not hispanic or latino,Female,Not Reported,Alive,,,,,,,,syn25049654,2abde5fa-866a-4b80-98cc-33e65adcd8ba,,,,1825.0,Not Applicable
+Demographics,HTA6_164,unknown,Female,unknown,Alive,,,,,,,,syn25049655,e67f690f-9398-498f-890b-1a2f24e54684,,,,1460.0,Not Applicable
+Demographics,HTA6_165,unknown,Female,white,Alive,,,,,,,,syn25049656,e971bf95-e71d-4d4a-9e64-34fb9128550e,,,,2190.0,Not Applicable
+Demographics,HTA6_166,unknown,Female,white,Alive,,,,,,,,syn25049657,88f4465d-55c4-4f60-b7aa-835e0e037784,,,,1095.0,Not Applicable
+Demographics,HTA6_167,unknown,Female,white,Alive,,,,,,,,syn25049658,2e409e07-a2a5-4b3c-9ebf-e4936a3e28b9,,,,5109.0,Not Applicable
+Demographics,HTA6_170,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049659,2cd9f016-feb3-4c5a-b6a8-d132a0fe4b73,,,,2554.0,Not Applicable
+Demographics,HTA6_5,hispanic or latino,Female,unknown,Alive,,,,,,,,syn25049660,ca618654-ad8e-4656-9796-05773e63c139,,,,1825.0,Not Applicable
+Demographics,HTA6_8,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049661,43a58ade-7d1d-493e-b1fe-3cebd70a52a7,,,,5109.0,Not Applicable
+Demographics,HTA6_12,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049662,f8281a35-291c-4aca-8bc7-af5154ee6faa,,,,2919.0,Not Applicable
+Demographics,HTA6_28,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049663,8331d37e-d8b5-490e-82a7-a996d07d6ebe,,,,5474.0,Not Applicable
+Demographics,HTA6_54,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25049664,c41a01ab-cb43-48d3-b1b9-fb73b0f1e7aa,unknown,unknown,,,2017.0
+Demographics,HTA6_55,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049665,0622a435-6256-4fc3-abbf-af0e0537ed40,,,,7298.0,Not Applicable
+Demographics,HTA6_58,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049666,e67f0c4a-80ae-4e33-b247-ce54a92b311a,,,,5474.0,Not Applicable
+Demographics,HTA6_89,not hispanic or latino,Female,asian,Alive,,,,,,,,syn25049667,81b7d3ca-34c5-4d4a-a667-695fe6c133f1,,,,1460.0,Not Applicable
+Demographics,HTA6_93,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049668,084b575d-5b03-4ce5-9bf0-b2f3d416cfe9,,,,1825.0,Not Applicable
+Demographics,HTA6_108,hispanic or latino,Female,unknown,Alive,,,,,,,,syn25049669,49ad583b-276e-4655-8815-45a39da01892,,,,5109.0,Not Applicable
+Demographics,HTA6_127,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049670,aa10a1ee-7018-4781-a281-433e4647ffb7,,,,4014.0,Not Applicable
+Demographics,HTA6_128,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049671,95099e38-da3b-41ee-9ae2-eaaa4a1cc900,,,,2554.0,Not Applicable
+Demographics,HTA6_155,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049672,85fa4354-2c63-42e5-b2a2-51d0a432185c,,,,3694.0,Not Applicable
+Demographics,HTA6_156,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049673,7769753c-ddd6-43ab-aed9-1920bac5e269,,,,2919.0,Not Applicable
+Demographics,HTA6_3,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049674,658622ed-4a0c-4fc5-98e8-c836eaee2eaf,,,,2554.0,Not Applicable
+Demographics,HTA6_4,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049675,b132f1dd-ae79-48e9-8050-1553a4ca3eae,,,,2554.0,Not Applicable
+Demographics,HTA6_20,not hispanic or latino,Female,white,Dead,,,,,,,,syn25049676,461f8414-b771-4cbb-8db3-16e9e14c5180,unknown,unknown,,,2015.0
+Demographics,HTA6_21,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049677,ab4d981a-5b22-41d1-bd32-a516dc3946a1,,,,3284.0,Not Applicable
+Demographics,HTA6_22,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049678,a0db498b-af89-4288-b2f3-3efecc350f0d,,,,1825.0,Not Applicable
+Demographics,HTA6_23,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25049679,03a93e68-1a35-4c64-9e5a-0aa4497313d6,unknown,unknown,,,2018.0
+Demographics,HTA6_36,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049680,696e4308-148c-477a-b9ed-81dcf0aed898,,,,4744.0,Not Applicable
+Demographics,HTA6_37,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049681,17f1d159-2c79-4cc6-a617-c373073f609d,,,,3649.0,Not Applicable
+Demographics,HTA6_62,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049682,db9657af-d0ae-49b9-bcd1-329951e5498a,,,,2919.0,Not Applicable
+Demographics,HTA6_63,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049683,0f0ea18d-fdae-4eb4-bf97-aadc4f5eaa9a,,,,6934.0,Not Applicable
+Demographics,HTA6_64,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25049684,78ac18bb-5fe3-49a5-8066-f726ba916c93,unknown,unknown,,,2006.0
+Demographics,HTA6_65,not hispanic or latino,Female,white,Dead,,,,,,,,syn25049685,50a3acb1-d0b6-418c-9a45-ec63bbc24130,unknown,unknown,,,2011.0
+Demographics,HTA6_66,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049686,a254f269-2b13-4bd7-a788-02b36550465e,,,,1825.0,Not Applicable
+Demographics,HTA6_67,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049687,bdba376b-d30a-4434-80a8-b586d5173173,,,,2190.0,Not Applicable
+Demographics,HTA6_68,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049688,df2f11c0-867d-4f47-849e-88e1aed885c3,,,,4379.0,Not Applicable
+Demographics,HTA6_90,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049689,fa93c866-d86b-4a3c-af1b-f91dd6507cce,,,,1460.0,Not Applicable
+Demographics,HTA6_94,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049690,604e6611-4cd3-4511-bcab-f4d17fcf620f,,,,2190.0,Not Applicable
+Demographics,HTA6_99,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049691,e4962851-e637-49b0-bed0-243ad9b48838,,,,3284.0,Not Applicable
+Demographics,HTA6_106,unknown,Female,black or african american,Alive,,,,,,,,syn25049692,c6413ee9-356d-4bd3-b6e4-cc3b56e6ec56,,,,2554.0,Not Applicable
+Demographics,HTA6_109,unknown,Female,black or african american,Alive,,,,,,,,syn25049693,c77c937a-7a66-4ce4-aaaf-96877330d306,,,,4379.0,Not Applicable
+Demographics,HTA6_110,unknown,Female,black or african american,Alive,,,,,,,,syn25049694,d44590f6-8d97-4dfe-8f24-bafedc423a8f,,,,2190.0,Not Applicable
+Demographics,HTA6_111,unknown,Female,unknown,Alive,,,,,,,,syn25049695,2dd9e06c-ffca-423c-a593-8b3e6e160d1d,,,,2554.0,Not Applicable
+Demographics,HTA6_122,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049696,270f6b67-9ff8-4c3e-8bd4-3653258f7529,,,,4379.0,Not Applicable
+Demographics,HTA6_123,hispanic or latino,Female,unknown,Alive,,,,,,,,syn25049697,7c52ab38-b292-487c-a68e-5a6380c0e9dd,,,,4014.0,Not Applicable
+Demographics,HTA6_124,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049698,b60f6f45-fd37-4ac2-835b-1f64fe6c4bbd,,,,4379.0,Not Applicable
+Demographics,HTA6_136,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049699,efb6f43b-efbf-49a5-bfb2-7e0e4f4ca8d7,,,,2919.0,Not Applicable
+Demographics,HTA6_140,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049700,7807b6a7-4245-4544-bfe4-f10be3574d73,,,,1460.0,Not Applicable
+Demographics,HTA6_142,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049701,c621fef6-6732-4a69-9f31-21f52c7dd381,,,,6204.0,Not Applicable
+Demographics,HTA6_143,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049702,2f9f0071-d0f8-40dd-890c-1954ea89f835,,,,3649.0,Not Applicable
+Demographics,HTA6_144,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049703,85d81d19-792a-4ebc-ac88-10b770162be4,,,,5474.0,Not Applicable
+Demographics,HTA6_147,unknown,Female,white,Alive,,,,,,,,syn25049704,d3bd8ff4-e7c0-4045-af8c-9d786c9e9e7e,,,,5109.0,Not Applicable
+Demographics,HTA6_151,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049705,67c24e36-241f-4a00-97dc-708219a733e0,,,,1095.0,Not Applicable
+Demographics,HTA6_153,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049706,8cad7759-7f70-4ef4-bd34-5e461271173e,,,,2554.0,Not Applicable
+Demographics,HTA6_158,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049707,f12b54d3-c791-450d-a492-8d3991255bac,,,,3284.0,Not Applicable
+Demographics,HTA6_160,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25049708,f98ca0ef-f1c4-4d23-a40b-2fcdfb58d1b8,,,,1460.0,Not Applicable
+Demographics,HTA6_161,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049709,0cf59872-cc6d-4355-b9ae-989d47e1bbca,,,,1460.0,Not Applicable
+Demographics,HTA6_163,unknown,Female,unknown,Alive,,,,,,,,syn25049710,09974566-d12f-4931-8907-26097fe4a86c,,,,1095.0,Not Applicable
+Demographics,HTA6_168,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049711,88dc0b0d-a947-41fb-9adb-191fdf5332cd,,,,6204.0,Not Applicable
+Demographics,HTA6_169,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049712,cd495b21-2a93-4812-94ec-b7f9069c98a2,,,,2190.0,Not Applicable
+Demographics,HTA6_1,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25049713,ce00d300-8285-4e69-ad4c-f645ee393d95,unknown,unknown,,,2007.0
+Demographics,HTA6_96,not hispanic or latino,Female,white,Alive,,,,,,,,syn25049714,daaadac8-6cf8-4c14-a7c6-f731fe7fe18d,,,,4379.0,Not Applicable
+Demographics,HTA6_104,unknown,Female,black or african american,Alive,,,,,,,,syn25049715,6acc4914-4558-494c-9d67-c9c2f703c2de,,,,1825.0,Not Applicable
+Demographics,HTA6_121,not hispanic or latino,Female,asian,Dead,,,,,,,,syn25049716,be76beb0-092e-40c0-95a9-927ac2dc8d49,unknown,unknown,,,2018.0
+Demographics,HTA6_133,unknown,Female,black or african american,Dead,,,,,,,,syn25049717,f3719aee-def7-4c5d-b9f9-fdec790f04b2,unknown,unknown,,,2012.0
+Demographics,HTA6_135,not hispanic or latino,Female,asian,Alive,,,,,,,,syn25049718,2af0f5b2-3ae9-4d9e-b16b-71d14c260a95,,,,1825.0,Not Applicable
+Demographics,HTA6_152,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25049719,23ea0e4a-b8db-4236-b023-0c5964124883,unknown,unknown,,,2012.0
+Demographics,HTA6_1123,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128886,6ffc1b24-960c-458e-afcf-ab4bb55991f1,unknown,unknown,,2762.0,Not Applicable
+Demographics,HTA6_1021,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128887,2390e85a-f587-41ef-93fa-ada4fad45689,unknown,unknown,,,2000.0
+Demographics,HTA6_1009,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128888,dbbe7ae3-0dee-4c1a-9f89-5db6a690275c,unknown,unknown,,9102.0,Not Applicable
+Demographics,HTA6_1002,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128889,b4cc5b2e-2f9a-4b69-b4b5-a728bd2303b7,unknown,unknown,,10060.0,Not Applicable
+Demographics,HTA6_1121,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128890,1cb56aa5-d159-4584-b3e0-dd59e26b972a,unknown,unknown,,8258.0,Not Applicable
+Demographics,HTA6_1167,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25128891,9384cfb3-881a-4098-87a9-ed66220cf9c8,unknown,unknown,,,2006.0
+Demographics,HTA6_1016,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25128892,c9c7c962-de26-4c6f-835f-4ee7789aaf2c,unknown,unknown,,,2010.0
+Demographics,HTA6_2004,not hispanic or latino,Female,white,unknown,,,,,,,,syn25128893,8e9194d9-89e9-4a43-ab34-20fea712b161,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1022,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128894,a9692231-baa5-4efb-917d-6eea0abc1ae0,unknown,unknown,,,1997.0
+Demographics,HTA6_1104,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128895,88faa4ac-bea1-49d1-ac3e-dd493f98ec33,unknown,unknown,,11270.0,Not Applicable
+Demographics,HTA6_1010,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128896,cb3d184d-f160-4c11-b7a7-8afa225bcd96,unknown,unknown,,12253.0,Not Applicable
+Demographics,HTA6_1042,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128897,b7d6089d-b7b4-4149-a96a-886b64ceae3c,unknown,unknown,,9182.0,Not Applicable
+Demographics,HTA6_1025,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128898,05b630d3-000f-477f-ab81-e5c766a6b69b,unknown,unknown,,6435.0,Not Applicable
+Demographics,HTA6_1023,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128899,9f698432-73cd-4e3e-8082-7f3f24facba3,unknown,unknown,,,2006.0
+Demographics,HTA6_1076,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128901,d1cfaf58-454c-4d03-a387-13cfbdcdff46,unknown,unknown,,9183.0,Not Applicable
+Demographics,HTA6_1084,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128902,f101d61c-b5a5-4694-8952-1bbf7bb78fad,unknown,unknown,,,1996.0
+Demographics,HTA6_1063,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128903,74303473-35da-4f0f-9b28-81dbefefc905,unknown,unknown,,5235.0,Not Applicable
+Demographics,HTA6_1151,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128904,ae0b75b7-cb95-4938-8b86-6885fcf7f4aa,unknown,unknown,,3332.0,Not Applicable
+Demographics,HTA6_1000,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128905,4396f4a7-8429-4578-b2b7-95943736c235,unknown,unknown,,,2014.0
+Demographics,HTA6_1113,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128906,07e21c08-dbf1-444e-8e4b-1f4a9b5ca8d4,unknown,unknown,,5841.0,Not Applicable
+Demographics,HTA6_1060,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128907,1fad9e71-f0a0-4fc5-9147-e6851bfd3381,unknown,unknown,,5641.0,Not Applicable
+Demographics,HTA6_1129,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128908,37c25d8d-8695-45f3-bf37-85b2d1549146,unknown,unknown,,,2016.0
+Demographics,HTA6_1019,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128909,9ba941a7-2970-4025-8b2f-32cab4e64eea,unknown,unknown,,3687.0,Not Applicable
+Demographics,HTA6_1051,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128910,730c4ee0-c2cb-4b38-8001-35d68611648e,unknown,unknown,,4366.0,Not Applicable
+Demographics,HTA6_1034,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128911,0b1e03fc-135b-4204-aec0-f5651bcdc89b,unknown,unknown,,4901.0,Not Applicable
+Demographics,HTA6_2014,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128912,8cba5cf0-4206-429b-86a1-27b3032a2c1e,unknown,unknown,,144.0,Not Applicable
+Demographics,HTA6_1108,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128913,11d3613b-cf3a-4e8f-8a85-b0e49c30519e,unknown,unknown,,2934.0,Not Applicable
+Demographics,HTA6_1004,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128914,a62b27d9-f745-4e04-b8fb-813e0ff0dc59,unknown,unknown,,3312.0,Not Applicable
+Demographics,HTA6_1014,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128915,025dc8ff-2aac-4d36-9c3a-7f055db2e3cf,unknown,unknown,,5463.0,Not Applicable
+Demographics,HTA6_1032,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128916,457a51ee-3a64-4f9d-938b-b99cabc69a3f,unknown,unknown,,7582.0,Not Applicable
+Demographics,HTA6_1054,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128917,251591d3-4983-4fe3-9620-3588ad4e4fff,unknown,unknown,,249.0,Not Applicable
+Demographics,HTA6_1118,not hispanic or latino,Female,white,unknown,,,,,,,,syn25128918,3965ea77-5095-4e7d-a9bb-294cc8ffae37,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1046,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128919,2f38aecd-9be7-406a-9d43-30d23762c168,unknown,unknown,,5995.0,Not Applicable
+Demographics,HTA6_1047,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128920,56dbfc0b-980a-4f4d-aaa1-8f8ffacc89bd,unknown,unknown,,7765.0,Not Applicable
+Demographics,HTA6_1126,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128921,5c97518c-5467-4636-9db7-475aef9a5110,unknown,unknown,,,2017.0
+Demographics,HTA6_1049,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128922,d62d46af-974a-4413-92c0-9c86d426817c,unknown,unknown,,,2012.0
+Demographics,HTA6_1116,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128923,e1e2ae3e-63d1-4ba3-94f8-9e33841822d1,unknown,unknown,,8252.0,Not Applicable
+Demographics,HTA6_2020,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128924,7785f734-f638-4e33-bf4a-9181faf39e72,unknown,unknown,,8451.0,Not Applicable
+Demographics,HTA6_1033,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128925,05fa77ca-79dc-4863-b2b0-2fb4c1fa309b,unknown,unknown,,4830.0,Not Applicable
+Demographics,HTA6_1026,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128926,35e2559e-caf3-45d6-8830-bac76c8b6f23,unknown,unknown,,,2006.0
+Demographics,HTA6_2023,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128927,05d1a6c0-6816-41ed-a347-1f5d4951450e,unknown,unknown,,1708.0,Not Applicable
+Demographics,HTA6_1127,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128928,2af2a2cd-d840-4e30-9df3-06e7964bbf66,unknown,unknown,,,1997.0
+Demographics,HTA6_1011,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128929,e06fc0d8-9c85-4cdc-ba67-7aea5f863558,unknown,unknown,,2985.0,Not Applicable
+Demographics,HTA6_1057,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128931,d1cf086d-b8df-49fc-974f-d712c7968996,unknown,unknown,,6381.0,Not Applicable
+Demographics,HTA6_2026,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128932,ae0847d6-1941-4829-80e2-f07332f6a4f4,unknown,unknown,,2626.0,Not Applicable
+Demographics,HTA6_1006,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128933,b5074e12-d11e-432b-960d-a7c9ae26f47e,unknown,unknown,,,2010.0
+Demographics,HTA6_1111,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128934,88509192-6bad-40c9-b5c7-92414a21c3bb,unknown,unknown,,5932.0,Not Applicable
+Demographics,HTA6_1160,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128935,d4816b92-a5ef-4a0a-9f6e-6eefb94f2269,unknown,unknown,,3384.0,Not Applicable
+Demographics,HTA6_1041,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128936,debdf6ce-8933-466d-bd2b-2c8fdb851928,unknown,unknown,,3100.0,Not Applicable
+Demographics,HTA6_1007,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128937,6f1d8e40-bf22-4212-b314-a89fc58a3d4b,unknown,unknown,,,2004.0
+Demographics,HTA6_1020,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128938,b376df7d-c324-4b6d-9939-08c3a1297f74,unknown,unknown,,,2016.0
+Demographics,HTA6_1003,not hispanic or latino,Female,black or african american,unknown,,,,,,,,syn25128939,639c6906-c6de-49dc-a0db-8bd532573188,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1001,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128940,b1144a3e-d8f4-4165-a9e4-2244b4da7997,unknown,unknown,,1574.0,Not Applicable
+Demographics,HTA6_1120,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128941,17b88c88-c5a1-48d1-955e-cba4ea7d6c3a,unknown,unknown,,8003.0,Not Applicable
+Demographics,HTA6_1050,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128942,7bba9467-c9aa-4672-8726-d51b34531e00,unknown,unknown,,161.0,Not Applicable
+Demographics,HTA6_1015,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128943,d72d8815-1a95-4e4f-91e2-bf0e7f36bad8,unknown,unknown,,254.0,Not Applicable
+Demographics,HTA6_1128,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128944,62cfd621-e632-496c-8de9-b6901341831e,unknown,unknown,,,2006.0
+Demographics,HTA6_1037,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128945,e6c11050-98a9-44c6-8713-9fef4429b97d,unknown,unknown,,3660.0,Not Applicable
+Demographics,HTA6_2029,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128946,4569e8ab-cfbc-4572-88fb-1c44979757d4,unknown,unknown,,,2008.0
+Demographics,HTA6_1159,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128947,2fbc134c-cf97-48bc-8c12-d41e7271b821,unknown,unknown,,4884.0,Not Applicable
+Demographics,HTA6_1055,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128948,bdc44c72-b0bb-440f-b2d4-ca4b6311a5a9,unknown,unknown,,262.0,Not Applicable
+Demographics,HTA6_1030,unknown,Female,white,Alive,,,,,,,,syn25128949,e86cd97f-f266-4f4b-b950-ea13afaf3a83,unknown,unknown,,86.0,Not Applicable
+Demographics,HTA6_1130,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128950,13a5fbb3-27b6-42c0-a0e9-9d5405f9dac6,unknown,unknown,,3092.0,Not Applicable
+Demographics,HTA6_1117,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128952,3290063b-83cc-40c3-ba1a-f6469b288e55,unknown,unknown,,3143.0,Not Applicable
+Demographics,HTA6_1107,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128953,66f908fa-5103-43b0-a8be-7dd2486865f5,unknown,unknown,,4312.0,Not Applicable
+Demographics,HTA6_1125,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128954,ff7583da-aabb-4edb-9548-28cc3c8682c9,unknown,unknown,,159.0,Not Applicable
+Demographics,HTA6_1138,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128955,d631eab2-a0f4-4387-a648-b42436401944,unknown,unknown,,749.0,Not Applicable
+Demographics,HTA6_1027,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128956,cf623467-2a94-4f28-a44d-de5dc2fa1392,unknown,unknown,,1318.0,Not Applicable
+Demographics,HTA6_1040,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128957,e70994b3-ac35-462d-b362-90f169bf5094,unknown,unknown,,1304.0,Not Applicable
+Demographics,HTA6_1147,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128958,bdea8659-268c-45c6-9110-0266c10ca3a2,unknown,unknown,,71.0,Not Applicable
+Demographics,HTA6_1137,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128959,89968558-5d54-461b-bb8b-d29d1e72923a,unknown,unknown,,3250.0,Not Applicable
+Demographics,HTA6_1035,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128960,1a243d51-e546-4d86-9a9b-c65ef60ee769,unknown,unknown,,1456.0,Not Applicable
+Demographics,HTA6_1166,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128961,a9cc64ec-5db8-432d-be81-aee5a539688d,unknown,unknown,,5594.0,Not Applicable
+Demographics,HTA6_1036,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128962,fb288f96-663f-4c1d-a48d-3562a957632f,unknown,unknown,,154.0,Not Applicable
+Demographics,HTA6_1115,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128963,63317d72-2ee9-4338-bb9f-4028fa9618b8,unknown,unknown,,,2020.0
+Demographics,HTA6_2037,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128964,5696a66a-4180-4cad-bce1-d9a5e7e911e9,unknown,unknown,,1360.0,Not Applicable
+Demographics,HTA6_2038,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128965,0bbca464-da64-43b4-a474-19d8f1ae90d3,unknown,unknown,,1694.0,Not Applicable
+Demographics,HTA6_1145,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25128966,f49950ab-83ee-40b6-bbf6-71ca1f728d63,unknown,unknown,,,2020.0
+Demographics,HTA6_1150,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128967,25618358-09ed-4a27-847a-e634a687af07,unknown,unknown,,3548.0,Not Applicable
+Demographics,HTA6_1005,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128968,b7eb2e30-6d6f-4551-8ae4-0ab52c96586c,unknown,unknown,,4431.0,Not Applicable
+Demographics,HTA6_1139,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128969,f7723e17-272d-49de-9efe-8f3d3b2a8bdb,unknown,unknown,,1852.0,Not Applicable
+Demographics,HTA6_1153,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128970,65ea17e2-90a3-457c-b6a7-ad689a63130c,unknown,unknown,,1467.0,Not Applicable
+Demographics,HTA6_1143,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128971,f9ed22a9-3083-457b-aa94-117feaf0733c,unknown,unknown,,217.0,Not Applicable
+Demographics,HTA6_1140,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25128972,0beb637a-8634-48bb-aca1-cd6e517a24ef,unknown,unknown,,,2015.0
+Demographics,HTA6_1158,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128973,07ea5983-56dd-405d-ae5a-8008ac18f1c8,unknown,unknown,,4744.0,Not Applicable
+Demographics,HTA6_1135,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128974,09d2d6c7-6308-4955-9484-afe2a947dce2,unknown,unknown,,163.0,Not Applicable
+Demographics,HTA6_1024,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128975,5ef1e4fb-13da-4258-af94-51e5a355ba4f,unknown,unknown,,8267.0,Not Applicable
+Demographics,HTA6_1071,not hispanic or latino,Female,white,unknown,,,,,,,,syn25128976,c1d94bd4-b862-439b-b4f1-cbbeb7f4bf6c,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1132,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128977,7b2f5232-3394-41d0-b1be-60bee675aad9,unknown,unknown,,6978.0,Not Applicable
+Demographics,HTA6_1164,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128978,70e1637b-3816-475a-b2d4-155dc3e69e17,unknown,unknown,,3311.0,Not Applicable
+Demographics,HTA6_1165,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128979,f4532167-8a3b-4ff5-9af9-4de61211706f,unknown,unknown,,10846.0,Not Applicable
+Demographics,HTA6_1134,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128980,4c8ef175-1b23-4460-87d1-ab5f92229165,unknown,unknown,,,2015.0
+Demographics,HTA6_1083,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128982,4ddd6d2c-d7d4-47ff-93c0-d48894768d1f,unknown,unknown,,,2006.0
+Demographics,HTA6_2048,not hispanic or latino,Female,white,Dead,,,,,,,,syn25128983,189eb98f-5969-4de1-99ed-185134789edc,unknown,unknown,,,2020.0
+Demographics,HTA6_1152,not hispanic or latino,Female,white,unknown,,,,,,,,syn25128984,67fed71d-6d89-4235-8691-e1dd527bd3aa,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1103,not hispanic or latino,Female,white,unknown,,,,,,,,syn25128985,4ede3537-4c87-4098-adc2-9bf79b7d6eea,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1162,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128986,be21bede-f3ba-41c0-ad74-2ff6c3d0a813,unknown,unknown,,3396.0,Not Applicable
+Demographics,HTA6_1148,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128987,2f9bb81c-046a-465e-8089-e0ea421aefac,unknown,unknown,,3389.0,Not Applicable
+Demographics,HTA6_1136,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128988,6bbd71de-7b7e-40cf-8e96-90b0e161e305,unknown,unknown,,256.0,Not Applicable
+Demographics,HTA6_1067,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128989,dcfdbae3-3ef6-4632-a548-223084b3e532,unknown,unknown,,182.0,Not Applicable
+Demographics,HTA6_1017,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25128990,8554e8d2-dfef-46a4-a1f4-f48f0308fe10,unknown,unknown,,10550.0,Not Applicable
+Demographics,HTA6_1156,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128991,5985faac-af77-4ee9-ae58-34728651a1fe,unknown,unknown,,9534.0,Not Applicable
+Demographics,HTA6_1079,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128992,57878451-4ce0-4b6c-8ba8-d05aa1cc77ae,unknown,unknown,,2793.0,Not Applicable
+Demographics,HTA6_1142,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128993,0890b10f-109e-4ca2-b710-9f7743174b27,unknown,unknown,,3551.0,Not Applicable
+Demographics,HTA6_1149,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128994,b0aed154-792d-4dbb-bdb0-7e9959026ba1,unknown,unknown,,5801.0,Not Applicable
+Demographics,HTA6_1073,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128995,b4659064-80c0-4887-8781-b9b31cb4ff7f,unknown,unknown,,7910.0,Not Applicable
+Demographics,HTA6_1087,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128996,db047c88-76f1-476c-8fc7-9ccf75bbe5e9,unknown,unknown,,10091.0,Not Applicable
+Demographics,HTA6_1065,not hispanic or latino,Female,white,Alive,,,,,,,,syn25128997,ecdcb18a-516a-4328-8609-d3452224623e,unknown,unknown,,168.0,Not Applicable
+Demographics,HTA6_1088,not hispanic or latino,Female,white,unknown,,,,,,,,syn25128998,5f87ffb0-9aa5-4c3c-b209-5ccc02de19e3,unknown,unknown,,,Not Applicable
+Demographics,HTA6_1080,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129000,f4383e21-fa51-42b4-980c-ecdec9805c84,unknown,unknown,,115.0,Not Applicable
+Demographics,HTA6_1090,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129001,f53d9120-96ed-4745-8aaf-d57a9052f8a4,unknown,unknown,,4048.0,Not Applicable
+Demographics,HTA6_1044,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129002,0c37d19c-69a1-4989-be2a-3bc6fb235023,unknown,unknown,,942.0,Not Applicable
+Demographics,HTA6_2055,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129003,728b4214-c22d-45bc-8406-b897e8214f37,unknown,unknown,,3366.0,Not Applicable
+Demographics,HTA6_1068,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129004,14dcc4f3-8bec-4105-bdd3-e6ecb8ec83f9,unknown,unknown,,,2013.0
+Demographics,HTA6_1038,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129005,d8c37d58-eefa-4fce-9b0f-2a3b0a3483c0,unknown,unknown,,4920.0,Not Applicable
+Demographics,HTA6_1072,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129006,2d3579d5-2e59-4fcb-8235-55aa6b85b7c5,unknown,unknown,,131.0,Not Applicable
+Demographics,HTA6_1131,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129007,ec7f83f5-7daa-4351-9387-9affbf8fa64e,unknown,unknown,,441.0,Not Applicable
+Demographics,HTA6_1106,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129008,0b29c53f-346d-4cd9-a79a-6d5140dc57de,unknown,unknown,,1642.0,Not Applicable
+Demographics,HTA6_1093,not hispanic or latino,Female,Not Reported,Alive,,,,,,,,syn25129009,b025666f-afaf-4ee5-a5df-7ad04ec0146a,unknown,unknown,,3331.0,Not Applicable
+Demographics,HTA6_1112,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25129010,c12d0ff7-a636-4bc8-a3fe-a2925b4b0ef9,unknown,unknown,,,2013.0
+Demographics,HTA6_1078,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129011,60c3d61c-2b5c-4195-8f1d-9eaba29110df,unknown,unknown,,3515.0,Not Applicable
+Demographics,HTA6_1119,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129012,e3a3896b-4693-48fe-8be7-f65d354151c9,unknown,unknown,,2229.0,Not Applicable
+Demographics,HTA6_1092,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129014,f3cc1aa7-12dd-4f44-9905-af6c0686d3ef,unknown,unknown,,2358.0,Not Applicable
+Demographics,HTA6_1086,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25129015,fdab7bb5-52ba-435a-8b2e-4a18a81b79ff,unknown,unknown,,,2014.0
+Demographics,HTA6_1094,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129016,91b1e414-d1d0-43ec-a742-973b75a3ba38,unknown,unknown,,3417.0,Not Applicable
+Demographics,HTA6_1096,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129017,8d41b27d-0dcc-4336-82a8-505a0e722c02,unknown,unknown,,2414.0,Not Applicable
+Demographics,HTA6_1144,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129018,b0a38bb0-f9aa-4fc0-812b-c0559378abab,unknown,unknown,,4136.0,Not Applicable
+Demographics,HTA6_1091,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129019,50e8d343-48a1-426f-a5e5-6088da167f90,unknown,unknown,,1249.0,Not Applicable
+Demographics,HTA6_1062,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129020,363ac3e1-9986-487a-9f20-2a67b2ceb306,unknown,unknown,,,2019.0
+Demographics,HTA6_1105,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn25129021,aa8a3cd8-0033-488d-9065-e3a9fed7d919,unknown,unknown,,,2016.0
+Demographics,HTA6_1124,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129022,2f6d3c1c-7093-4ccb-9d78-8759bea7541a,unknown,unknown,,4898.0,Not Applicable
+Demographics,HTA6_1070,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129023,38893d1f-c244-4963-bb3c-72829a2cd09f,unknown,unknown,,2642.0,Not Applicable
+Demographics,HTA6_1098,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129024,48e98139-563e-45b6-a50e-74564fd0d248,unknown,unknown,,95.0,Not Applicable
+Demographics,HTA6_1109,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129025,f28f12c1-cfdd-4a85-ab77-2ac940200a76,unknown,unknown,,1737.0,Not Applicable
+Demographics,HTA6_1114,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129026,689b4218-6b21-4eef-b1a6-05bbc187553c,unknown,unknown,,3785.0,Not Applicable
+Demographics,HTA6_1031,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129027,ad5be420-89e7-4bad-8c51-b0a46eea40f7,unknown,unknown,,9634.0,Not Applicable
+Demographics,HTA6_1061,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129028,8b3b167c-1659-404c-8f33-d974de20bd36,unknown,unknown,,2016.0,Not Applicable
+Demographics,HTA6_1085,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129029,ff6a2c9e-6003-4551-bd22-6d1ac5dbb1cf,unknown,unknown,,5623.0,Not Applicable
+Demographics,HTA6_1064,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129030,e8723e81-112b-4d04-b4ff-0a33e244fb98,unknown,unknown,,2556.0,Not Applicable
+Demographics,HTA6_1154,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129031,e6cd601c-2435-4a34-951b-e6a8bfc73674,unknown,unknown,,,2017.0
+Demographics,HTA6_1075,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129032,a6851939-e0c8-466f-a402-e5e0e0454da7,unknown,unknown,,2960.0,Not Applicable
+Demographics,HTA6_2071,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129033,34edd9b4-36e3-43f7-ae96-60648ee9c44e,unknown,unknown,,107.0,Not Applicable
+Demographics,HTA6_1101,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129034,920dbbb2-cc98-43ff-a03f-5014d82c8eca,unknown,unknown,,,2016.0
+Demographics,HTA6_1052,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129035,c0908cf0-f1c4-4896-992a-b41149b08963,unknown,unknown,,10344.0,Not Applicable
+Demographics,HTA6_1157,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129036,a24f26cb-5d3a-40e2-8c8e-82bea66ea59a,unknown,unknown,,510.0,Not Applicable
+Demographics,HTA6_1133,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129037,0cc3e38f-bd57-4372-a5aa-3d9782e41621,unknown,unknown,,599.0,Not Applicable
+Demographics,HTA6_2074,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129038,2ecf56ed-8ac9-4930-a31a-33b349c04c16,unknown,unknown,,1813.0,Not Applicable
+Demographics,HTA6_1161,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129039,914e0f39-acd8-412c-ab56-3bb18bc7afbe,unknown,unknown,,620.0,Not Applicable
+Demographics,HTA6_1066,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129040,e4258515-e5db-40d0-a3b1-5fb0865bee85,unknown,unknown,,4824.0,Not Applicable
+Demographics,HTA6_1095,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129041,5658d87a-90b2-47db-a409-1fc66228fa86,unknown,unknown,,4966.0,Not Applicable
+Demographics,HTA6_2077,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129042,4a3338ce-2bec-4660-872f-9210abdda114,unknown,unknown,,163.0,Not Applicable
+Demographics,HTA6_1059,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129043,1a430363-1cc1-43e9-b161-d63e59b1fdeb,unknown,unknown,,4044.0,Not Applicable
+Demographics,HTA6_1013,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129044,b441f5bf-8893-414f-8687-83e6b830a929,unknown,unknown,,2489.0,Not Applicable
+Demographics,HTA6_1018,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129045,913c3b6a-0490-45f7-b785-64b8eec6ed34,unknown,unknown,,,1997.0
+Demographics,HTA6_2078,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129046,eedb6485-f58f-4a7d-900c-7638a90599f2,unknown,unknown,,,2004.0
+Demographics,HTA6_1074,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129047,71072760-c473-48b2-aa28-64ab11339904,unknown,unknown,,3928.0,Not Applicable
+Demographics,HTA6_1069,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129048,64b6642c-dd4f-42bf-a14e-446bb7e6404c,unknown,unknown,,2398.0,Not Applicable
+Demographics,HTA6_1048,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129049,170935c5-99f1-4dce-99b9-2e42a71dc9fe,unknown,unknown,,6547.0,Not Applicable
+Demographics,HTA6_1043,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129050,51fc70bc-eafe-49bf-9f9f-25106ef43cff,unknown,unknown,,233.0,Not Applicable
+Demographics,HTA6_1028,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129051,9b3c78d9-3346-49c6-bb59-aeff5d832332,unknown,unknown,,,2015.0
+Demographics,HTA6_1163,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129052,c54cc490-a904-467e-9d5b-40b70490c352,unknown,unknown,,1467.0,Not Applicable
+Demographics,HTA6_1146,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129053,7ee5a84d-b228-44e7-b661-dfbe300217c8,unknown,unknown,,1451.0,Not Applicable
+Demographics,HTA6_1102,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129054,aaf7b7d0-ff42-47be-a2f2-b946c74e55e6,unknown,unknown,,2940.0,Not Applicable
+Demographics,HTA6_1008,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129055,267ebcb5-a007-4cf1-b114-9d576c34152e,unknown,unknown,,10339.0,Not Applicable
+Demographics,HTA6_1045,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129056,309edae2-0057-4f11-a5bb-9cb74a240222,unknown,unknown,,5923.0,Not Applicable
+Demographics,HTA6_1141,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129057,d713997d-b7d8-4328-9c4a-06e57b639168,unknown,unknown,,3539.0,Not Applicable
+Demographics,HTA6_1029,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129058,ca763a48-61b0-4085-9192-73083c00c2ce,unknown,unknown,,3242.0,Not Applicable
+Demographics,HTA6_1053,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129059,5920bd5b-9b52-4954-b5ba-e1fbc2c320bc,unknown,unknown,,,2019.0
+Demographics,HTA6_1039,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129060,8419572e-13eb-4311-a51c-09e97c0c5779,unknown,unknown,,5786.0,Not Applicable
+Demographics,HTA6_1056,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129061,ce39321f-4cb7-4f7a-9019-ad008d9b27ba,unknown,unknown,,6031.0,Not Applicable
+Demographics,HTA6_1097,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129062,e80fff53-943e-4abd-ad6f-13dfc420ef75,unknown,unknown,,148.0,Not Applicable
+Demographics,HTA6_1081,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129063,8ffcc024-a348-47b3-a142-5028b32328df,unknown,unknown,,1600.0,Not Applicable
+Demographics,HTA6_1110,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129064,78149c8a-8b64-4b33-ac8e-a3d31e56b5d0,unknown,unknown,,3014.0,Not Applicable
+Demographics,HTA6_1082,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129065,6bffac62-71a6-4072-844a-fd03a1269f53,unknown,unknown,,2944.0,Not Applicable
+Demographics,HTA6_1089,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129066,1df6bf42-52bc-447b-bd8f-07b6cdd971ae,unknown,unknown,,134.0,Not Applicable
+Demographics,HTA6_1099,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129067,abfd848b-0660-4e26-8656-86db188bfd74,unknown,unknown,,,2016.0
+Demographics,HTA6_1122,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129068,2e0c6a8f-f168-49e1-90b0-e0f12ee7382b,unknown,unknown,,132.0,Not Applicable
+Demographics,HTA6_1155,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn25129069,d78806de-178b-466b-bfd4-e02b1f2f49f4,unknown,unknown,,373.0,Not Applicable
+Demographics,HTA6_1058,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129070,b471bc95-46c6-4751-af07-6e266021f725,unknown,unknown,,586.0,Not Applicable
+Demographics,HTA6_1012,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129071,c4a2dd18-8b75-4ea0-9c6d-1221b020dbfb,unknown,unknown,,158.0,Not Applicable
+Demographics,HTA6_1077,not hispanic or latino,Female,white,Alive,,,,,,,,syn25129072,6d68fa01-cb7e-47fa-9b31-b70681fdd272,unknown,unknown,,121.0,Not Applicable
+Demographics,HTA6_1100,not hispanic or latino,Female,white,Dead,,,,,,,,syn25129073,d480f7ad-9bb7-41ab-bdc1-e30c6039d8ec,unknown,unknown,,,2009.0
+Demographics,HTA6_2079,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851909,42dcb18c-a54a-43ce-8db4-f5c863531516,unknown,unknown,,,2006.0
+Demographics,HTA6_2080,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851910,ba1ea3e0-5b54-4d08-a90b-70189a1cf5ec,unknown,unknown,,,1999.0
+Demographics,HTA6_2081,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851911,4a18ed5c-0794-4130-ae5a-f468110232c4,unknown,unknown,,,2012.0
+Demographics,HTA6_2082,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851912,e1aeed25-3aa8-4883-85f1-b622cc5125ba,unknown,unknown,,,2003.0
+Demographics,HTA6_2083,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851913,c02a7280-c7e4-42c2-a31b-5038be331b43,unknown,unknown,,,2007.0
+Demographics,HTA6_2084,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851914,12381276-14a4-4c80-b5f8-ee5274b31b7a,unknown,unknown,,,1986.0
+Demographics,HTA6_2085,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851915,184c3881-1de3-4717-8a64-21a587a43364,unknown,unknown,,9368.0,Not Applicable
+Demographics,HTA6_2086,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851916,8051a794-fbca-4c09-aaf4-a002c1a78348,unknown,unknown,,,2015.0
+Demographics,HTA6_2087,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851917,af36569b-95d8-4385-88af-5b84d57a1031,unknown,unknown,,6761.0,Not Applicable
+Demographics,HTA6_2088,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851918,49181209-1f92-41c5-a1be-93a29a06048a,unknown,unknown,,11288.0,Not Applicable
+Demographics,HTA6_2089,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851919,3a838509-d0eb-4ec5-8f1b-fcb14f87403d,unknown,unknown,,7962.0,Not Applicable
+Demographics,HTA6_2090,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851920,401be5f8-a071-46cc-9b4c-c03808c9e73b,unknown,unknown,,8187.0,Not Applicable
+Demographics,HTA6_2091,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851921,e086d934-f4ee-46c3-b838-d700f2e19d67,unknown,unknown,,3937.0,Not Applicable
+Demographics,HTA6_2092,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851922,53e122e3-e4c2-4004-a821-54aeda365d05,unknown,unknown,,4690.0,Not Applicable
+Demographics,HTA6_2093,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851923,f8084c94-fc3f-4bc8-b962-d1f55df669f2,unknown,unknown,,,2009.0
+Demographics,HTA6_2094,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851924,2883cfa7-39d3-4a1e-83d8-a0490cf4f6d5,unknown,unknown,,,2004.0
+Demographics,HTA6_2095,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851925,c312e0d1-d04b-4d58-9652-60203bb0c01f,unknown,unknown,,11144.0,Not Applicable
+Demographics,HTA6_2096,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851926,56aa9abe-04da-401f-a750-ef662776ef7c,unknown,unknown,,,2006.0
+Demographics,HTA6_2097,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851927,4cd66e87-2509-4654-8d6d-c7c8f1d79dbc,unknown,unknown,,8662.0,Not Applicable
+Demographics,HTA6_2098,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851928,55a6fc60-1571-4ccf-a284-b48d7a627ce2,unknown,unknown,,,2019.0
+Demographics,HTA6_2099,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851929,8692cde8-5d61-442e-9970-74ebfa74cd32,unknown,unknown,,,1988.0
+Demographics,HTA6_2100,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851930,3743aa00-f06f-43c5-a65c-96a9f7763185,unknown,unknown,,2078.0,Not Applicable
+Demographics,HTA6_2101,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851931,b724ef74-6113-4902-902d-05afe407839e,unknown,unknown,,,2011.0
+Demographics,HTA6_2102,not hispanic or latino,Female,white,unknown,,,,,,,,syn27851932,44422468-587e-4304-9b26-1ccba3a7e967,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2103,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851933,a3c9d358-b448-403a-91fd-b15a52bcad21,unknown,unknown,,6079.0,Not Applicable
+Demographics,HTA6_2104,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851934,68d67c6b-a55f-4612-8025-80b00a666687,unknown,unknown,,5709.0,Not Applicable
+Demographics,HTA6_2105,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851935,63b1500b-4507-4fae-83ea-d24ba6e2033b,unknown,unknown,,3405.0,Not Applicable
+Demographics,HTA6_2106,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851936,cefad6ac-b4a3-4e07-a110-8db96692085a,unknown,unknown,,4809.0,Not Applicable
+Demographics,HTA6_2107,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851937,337d540f-11e4-4c41-96f8-a8c6d9c893f2,unknown,unknown,,3079.0,Not Applicable
+Demographics,HTA6_2108,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851938,1ae0f651-35f8-4b80-a40e-c2cca6e765eb,unknown,unknown,,2546.0,Not Applicable
+Demographics,HTA6_2109,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851939,71f0804a-1711-47f8-a077-18d34e12f33b,unknown,unknown,,3736.0,Not Applicable
+Demographics,HTA6_2110,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851940,baa4a381-647a-4816-9c9b-2802b2f445d1,unknown,unknown,,10163.0,Not Applicable
+Demographics,HTA6_2111,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851941,e5c9293b-f8dc-4b7f-a185-3432175dba4a,unknown,unknown,,8649.0,Not Applicable
+Demographics,HTA6_2112,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851942,72fc9429-fbf4-4da9-a8a9-096d46d7d210,unknown,unknown,,8832.0,Not Applicable
+Demographics,HTA6_2113,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851943,9b78f3bc-7951-4a3a-890b-6daf48391b87,unknown,unknown,,167.0,Not Applicable
+Demographics,HTA6_2114,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851944,3c34df3f-9cec-4990-99ea-38487b84aaa9,unknown,unknown,,3932.0,Not Applicable
+Demographics,HTA6_2115,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851945,a395f810-e720-46f4-ae59-28ceedcc1eb9,unknown,unknown,,149.0,Not Applicable
+Demographics,HTA6_2116,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851946,a364ee65-d841-4c94-94f6-8c7dd6b458a6,unknown,unknown,,5849.0,Not Applicable
+Demographics,HTA6_2117,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851947,12a3faa1-4f07-487b-950f-121c05e15011,unknown,unknown,,5340.0,Not Applicable
+Demographics,HTA6_2118,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851948,001d66b4-605d-4577-add0-7619fb60cd75,unknown,unknown,,178.0,Not Applicable
+Demographics,HTA6_2119,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851949,817addac-8867-4dde-aa84-e88e2f92c018,unknown,unknown,,6752.0,Not Applicable
+Demographics,HTA6_2120,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851950,36c1903e-a29c-4b94-9241-5f44300cc90f,unknown,unknown,,,2012.0
+Demographics,HTA6_2121,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851951,6c0b5372-4e86-4860-8c0b-f05267e15d5a,unknown,unknown,,5547.0,Not Applicable
+Demographics,HTA6_2122,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851952,20cd0c83-d905-4cdc-bf12-265af2e4f9bb,unknown,unknown,,,2016.0
+Demographics,HTA6_2123,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851953,4cdca27d-a652-4a75-b2ee-ed62038b1618,unknown,unknown,,4981.0,Not Applicable
+Demographics,HTA6_2124,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851954,59dda6b5-4212-4e47-bf4c-32db40076045,unknown,unknown,,646.0,Not Applicable
+Demographics,HTA6_2125,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851955,b2b46b28-0a6c-426e-a8f1-d9b5b94706bb,unknown,unknown,,4035.0,Not Applicable
+Demographics,HTA6_2126,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851956,f5d65b5f-f1d9-4d65-9de9-f36d0f838228,unknown,unknown,,,2016.0
+Demographics,HTA6_2127,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851957,1248b66b-db6a-4d0d-b96f-4574edf0bf07,unknown,unknown,,3947.0,Not Applicable
+Demographics,HTA6_2128,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851958,d015735a-9987-4991-96ac-d8120f15c5f4,unknown,unknown,,1945.0,Not Applicable
+Demographics,HTA6_2129,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851959,81e26480-a744-4003-82b4-a880f2c87b53,unknown,unknown,,,2006.0
+Demographics,HTA6_2130,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851960,79d11fe5-27e2-43cc-99ae-bd6cf7812d8a,unknown,unknown,,6062.0,Not Applicable
+Demographics,HTA6_2131,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851961,59b3ab40-2325-4fd1-879b-be5310271ad4,unknown,unknown,,3911.0,Not Applicable
+Demographics,HTA6_2132,not hispanic or latino,Female,white,unknown,,,,,,,,syn27851962,e90060f3-c039-4151-8dad-ef2e7f452a7b,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2133,not hispanic or latino,Female,white,Dead,,,,,,,,syn27851963,3e5870bd-6dd6-45ff-b03c-6d902e2256d8,unknown,unknown,,,1995.0
+Demographics,HTA6_2134,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851964,77079737-b2ae-4492-96f6-8a1d18fef427,unknown,unknown,,,2017.0
+Demographics,HTA6_2135,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851965,c6b27d10-2d8c-4d97-8809-396ac696ab7c,unknown,unknown,,219.0,Not Applicable
+Demographics,HTA6_2136,not hispanic or latino,Female,white,unknown,,,,,,,,syn27851966,15435b9a-5eec-493d-9c06-ada6620ac66c,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2137,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851967,5ebd21af-5bbd-41f3-a3a1-e1bb4aa231bc,unknown,unknown,,,2014.0
+Demographics,HTA6_2138,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851968,b1426159-23ff-45b5-8581-479d45e16daf,unknown,unknown,,2884.0,Not Applicable
+Demographics,HTA6_2139,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851969,08ab6f22-86c0-4403-851c-e3bb271b8426,unknown,unknown,,1521.0,Not Applicable
+Demographics,HTA6_2140,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851971,a7cf5a29-f6a3-40d9-a052-620cf1587d7b,unknown,unknown,,9334.0,Not Applicable
+Demographics,HTA6_2141,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851972,5dda530a-73e1-445a-b00a-2c5f0bf632f6,unknown,unknown,,1620.0,Not Applicable
+Demographics,HTA6_2142,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851974,6d3e9249-faed-47f8-940a-bc74a9be4bdd,unknown,unknown,,,2014.0
+Demographics,HTA6_2143,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851975,72fa0621-9dd8-4450-adfe-d98d558bb57e,unknown,unknown,,2548.0,Not Applicable
+Demographics,HTA6_2144,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851976,4879ff44-a2a3-4828-9f50-bea66d0ad9a7,unknown,unknown,,5520.0,Not Applicable
+Demographics,HTA6_2145,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851977,e83cdf03-ffb5-4e63-b7bc-95dee747ac06,unknown,unknown,,243.0,Not Applicable
+Demographics,HTA6_2146,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851978,8af04df7-6097-4dcc-a236-82febb1673d3,unknown,unknown,,2906.0,Not Applicable
+Demographics,HTA6_2147,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851979,e19df59c-bf1e-4642-a59e-d3b26ef63e94,unknown,unknown,,2077.0,Not Applicable
+Demographics,HTA6_2148,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851980,4fa248c7-d9d4-4a9b-9fd9-543f44146379,unknown,unknown,,2919.0,Not Applicable
+Demographics,HTA6_2149,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851981,a4e4378b-7cb4-428b-83c0-0f336b768399,unknown,unknown,,1891.0,Not Applicable
+Demographics,HTA6_2150,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851982,8c4eb5c1-3c18-4bf2-baee-23ce873cb5f3,unknown,unknown,,,2012.0
+Demographics,HTA6_2151,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851983,7ca705cf-8d57-4acf-928c-9b927eb03ca7,unknown,unknown,,,2017.0
+Demographics,HTA6_2152,not hispanic or latino,Female,black or african american,unknown,,,,,,,,syn27851984,fc680ef8-1585-4cd9-b7c5-27587beedd78,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2153,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851985,09fa6276-039f-491a-b78f-6549f79d880a,unknown,unknown,,5064.0,Not Applicable
+Demographics,HTA6_2154,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851986,8e0bdf1c-126c-4e7b-805d-f87dabbc1159,unknown,unknown,,5361.0,Not Applicable
+Demographics,HTA6_2155,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851987,0eef4587-7bdf-4a7b-ab97-52b123836658,unknown,unknown,,2154.0,Not Applicable
+Demographics,HTA6_2156,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851988,410cf37d-a5c3-4dee-9206-67f6f446837e,unknown,unknown,,218.0,Not Applicable
+Demographics,HTA6_2157,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851989,b8bf8c78-ff56-44bc-b5ce-d9c5bb4221de,unknown,unknown,,158.0,Not Applicable
+Demographics,HTA6_2158,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851990,78152f55-6959-4d3a-aaf0-69c03bbaba54,unknown,unknown,,3809.0,Not Applicable
+Demographics,HTA6_2159,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851991,e5d78bf0-09f8-4489-a077-fa6b97b9fd5f,unknown,unknown,,2582.0,Not Applicable
+Demographics,HTA6_2160,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851992,6cb682ad-5667-4576-8246-2cf09a134906,unknown,unknown,,2201.0,Not Applicable
+Demographics,HTA6_2161,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851993,870e887a-95e1-471e-b8ab-f3b603feb79a,unknown,unknown,,5451.0,Not Applicable
+Demographics,HTA6_2162,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851994,b0182573-1338-4de1-ab19-8b054449d77f,unknown,unknown,,744.0,Not Applicable
+Demographics,HTA6_2163,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851995,ace9f303-c05b-4694-a8fb-afb9f1e9b9a0,unknown,unknown,,3656.0,Not Applicable
+Demographics,HTA6_2164,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851996,52ca3092-7b9d-4561-9665-b71c29ef9b86,unknown,unknown,,4169.0,Not Applicable
+Demographics,HTA6_2165,not hispanic or latino,Female,white,Alive,,,,,,,,syn27851997,0a01a503-4bd0-4201-826a-1959d7daac78,unknown,unknown,,209.0,Not Applicable
+Demographics,HTA6_2166,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27851998,0fa749b7-7d1c-4a26-9b10-feb5dd3599bc,unknown,unknown,,192.0,Not Applicable
+Demographics,HTA6_2167,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27851999,cdb74362-cfa7-4649-8fff-59e71f28b20f,unknown,unknown,,,2004.0
+Demographics,HTA6_2168,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852000,7096369c-e79e-40be-b72c-3f76c8a39023,unknown,unknown,,,1999.0
+Demographics,HTA6_2169,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852001,19d719d9-5ad3-44a4-b45b-f0eb021d0db5,unknown,unknown,,177.0,Not Applicable
+Demographics,HTA6_2170,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852002,0db392ec-fa11-4848-a2fa-c06d49ca2dfb,unknown,unknown,,4052.0,Not Applicable
+Demographics,HTA6_2171,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852003,dd252f16-c12f-4c71-bef4-877a9d86bfa9,unknown,unknown,,,2011.0
+Demographics,HTA6_2172,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852004,ec64a11b-c8fc-4d7d-8fc2-9fd4d988e19c,unknown,unknown,,,1998.0
+Demographics,HTA6_2173,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852005,a3f14829-68b6-4d64-9a8f-3daff8483c25,unknown,unknown,,8731.0,Not Applicable
+Demographics,HTA6_2174,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852006,6dc30138-a02e-4703-a370-b39d7f9be5cd,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2175,not hispanic or latino,Female,unknown,Alive,,,,,,,,syn27852007,2c8719d4-6aab-4704-b5c9-9ebc57e999ee,unknown,unknown,,3106.0,Not Applicable
+Demographics,HTA6_2176,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852008,74ad539d-8ec2-47c0-89ed-193f88c54172,unknown,unknown,,198.0,Not Applicable
+Demographics,HTA6_2177,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852009,af3f5c04-d583-4765-a3b5-4d0f3336d6aa,unknown,unknown,,6596.0,Not Applicable
+Demographics,HTA6_2178,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852010,b53ad48f-3ca8-4bf2-a236-270913fe95c9,unknown,unknown,,,2010.0
+Demographics,HTA6_2179,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852012,b0dbe700-5846-4605-b248-f4bd39079ae3,unknown,unknown,,257.0,Not Applicable
+Demographics,HTA6_2180,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852013,35464f1e-e736-4d31-9255-76b6bfdb3667,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2181,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852014,4d7c8338-8e9e-4505-86b0-22d1ed7e70c5,unknown,unknown,,,2002.0
+Demographics,HTA6_2182,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852016,9a8feee5-9511-468d-a449-79a95a8e75a8,unknown,unknown,,,1990.0
+Demographics,HTA6_2183,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852017,37a17b88-83be-4ee5-93cf-76836fb8405f,unknown,unknown,,230.0,Not Applicable
+Demographics,HTA6_2184,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852018,6a448d09-63ad-46ab-b5ac-cbb01e7ae9d8,unknown,unknown,,8376.0,Not Applicable
+Demographics,HTA6_2185,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852019,166f86d1-7311-476f-aba2-0e7768601f96,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2186,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852020,a65e44ab-2b50-48c7-bc15-831938130d84,unknown,unknown,,1704.0,Not Applicable
+Demographics,HTA6_2187,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852021,d2046b53-8973-47b7-8e65-64b929784304,unknown,unknown,,,1994.0
+Demographics,HTA6_2188,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852022,2467b397-eb8d-41e0-a0c8-9565f704a37f,unknown,unknown,,,1998.0
+Demographics,HTA6_2189,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852023,4f964d9b-f861-4583-adb7-5ad0516b6d6b,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2190,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852024,e67677ad-776b-48d9-a2c2-969ea8854e60,unknown,unknown,,11050.0,Not Applicable
+Demographics,HTA6_2191,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852025,62e48c1d-9c48-4bbd-9d4a-33aa64883020,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2192,unknown,Female,white,unknown,,,,,,,,syn27852026,30d98bd3-95d9-4f4f-bb75-08a9e61d0981,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2193,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852027,5b58154d-01e4-4f5f-b7c3-74a805968146,unknown,unknown,,,2010.0
+Demographics,HTA6_2194,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852028,490703bd-0fb3-4c49-a26a-80a6b073bcd8,unknown,unknown,,,2020.0
+Demographics,HTA6_2195,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852029,e3442767-71f9-4f16-a1d0-558188d078e4,unknown,unknown,,,2009.0
+Demographics,HTA6_2196,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852030,24f3b4df-87d1-45f1-925d-e86f389ce6b8,unknown,unknown,,10966.0,Not Applicable
+Demographics,HTA6_2197,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852031,6ada01d2-7c7d-4af8-a093-6ad63aadf644,unknown,unknown,,,2006.0
+Demographics,HTA6_2198,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852032,ccb611e3-71ee-4267-bcd9-44775d5edec5,unknown,unknown,,1908.0,Not Applicable
+Demographics,HTA6_2199,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852033,9e9b3fcd-329c-4d2f-aee8-36b2f8b3cb9d,unknown,unknown,,6438.0,Not Applicable
+Demographics,HTA6_2200,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852034,99c541a9-2f3c-4268-918b-df0938467502,unknown,unknown,,3751.0,Not Applicable
+Demographics,HTA6_2201,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852035,0873085e-456a-4d8b-ad64-9e57faaa385e,unknown,unknown,,3300.0,Not Applicable
+Demographics,HTA6_2202,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852036,2d0f6748-e8bc-4fdb-a188-af9b92f8fc18,unknown,unknown,,4487.0,Not Applicable
+Demographics,HTA6_2203,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852037,a17f43ab-f1b9-4ed9-a171-b3aa156423e0,unknown,unknown,,187.0,Not Applicable
+Demographics,HTA6_2204,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852038,d5138506-ebec-45e6-a65e-10bfd68d18d7,unknown,unknown,,3669.0,Not Applicable
+Demographics,HTA6_2205,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852039,864d4371-593e-471f-8119-f12ed2427561,unknown,unknown,,2843.0,Not Applicable
+Demographics,HTA6_2206,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852040,792253f4-1636-4e0d-b9fa-b7e03e808157,unknown,unknown,,,2011.0
+Demographics,HTA6_2207,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852041,1626e93f-2320-4e54-94f3-4c7f82f22209,unknown,unknown,,125.0,Not Applicable
+Demographics,HTA6_2208,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852042,9725409c-9755-4185-8ab3-797f175e0cc5,unknown,unknown,,84.0,Not Applicable
+Demographics,HTA6_2209,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852043,29a7b8b5-a514-41a1-b876-55722f3db71e,unknown,unknown,,90.0,Not Applicable
+Demographics,HTA6_2210,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852044,08b60510-d469-43b5-ad08-7ddb5b2303d8,unknown,unknown,,823.0,Not Applicable
+Demographics,HTA6_2211,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852045,40f3d72a-e714-45a8-bc42-f5a463a1ceb5,unknown,unknown,,1029.0,Not Applicable
+Demographics,HTA6_2212,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852046,11b5342d-2bdf-42e0-bd82-b9e6c9f762b3,unknown,unknown,,87.0,Not Applicable
+Demographics,HTA6_2213,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852047,b822d8a0-28e9-4c5b-99c9-68b8f67f2721,unknown,unknown,,130.0,Not Applicable
+Demographics,HTA6_2214,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852048,6c7f8607-e877-4793-80be-0f9afa29867a,unknown,unknown,,87.0,Not Applicable
+Demographics,HTA6_2215,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852049,a5c1e207-bb28-4711-935a-3d49fb872448,unknown,unknown,,2142.0,Not Applicable
+Demographics,HTA6_2216,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852050,73a06bba-722d-40b9-855a-aae1817e23bb,unknown,unknown,,,2012.0
+Demographics,HTA6_2217,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852051,5febdad3-b2e5-425f-beb4-17a297c9682b,unknown,unknown,,8633.0,Not Applicable
+Demographics,HTA6_2218,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852052,7b7f71f4-12cf-415a-9a19-6e4e66702132,unknown,unknown,,87.0,Not Applicable
+Demographics,HTA6_2219,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852053,72baf723-f8cf-4535-acea-5325cf3f3f01,unknown,unknown,,1994.0,Not Applicable
+Demographics,HTA6_2220,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852054,f2f9bab5-1d01-4c43-af02-8a98da844435,unknown,unknown,,,2002.0
+Demographics,HTA6_2221,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852055,1963baf4-f993-4898-8861-3954be38ee8c,unknown,unknown,,7676.0,Not Applicable
+Demographics,HTA6_2222,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852057,767c688b-b3c6-4a42-a7a7-a8b9b0508a7a,unknown,unknown,,,1997.0
+Demographics,HTA6_2223,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852058,10f00d52-bc0b-401a-bd9f-ee93955884c2,unknown,unknown,,,2007.0
+Demographics,HTA6_2224,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852059,747ab300-08b7-4c4c-b3ca-573379598349,unknown,unknown,,8809.0,Not Applicable
+Demographics,HTA6_2225,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852060,337f3163-912f-4f30-ad28-2d056d8f0520,unknown,unknown,,7803.0,Not Applicable
+Demographics,HTA6_2226,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852061,33664075-fabe-496a-b063-9f9b95ea8b36,unknown,unknown,,,2017.0
+Demographics,HTA6_2227,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852062,8a593962-34e4-42bb-873d-d7e5b0f73642,unknown,unknown,,6182.0,Not Applicable
+Demographics,HTA6_2228,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852063,251185f9-ae3a-4fc2-871b-8945b7a8f77d,unknown,unknown,,,2000.0
+Demographics,HTA6_2229,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852064,910876dd-13d7-408f-ab05-c6b35c957a72,unknown,unknown,,,2008.0
+Demographics,HTA6_2230,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852065,2cb34e37-67e8-4c99-b8ec-4493cca9fa8e,unknown,unknown,,7678.0,Not Applicable
+Demographics,HTA6_2231,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852066,8c560864-98de-45ce-b972-1c01f30dbb28,unknown,unknown,,,2006.0
+Demographics,HTA6_2232,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852067,f04273ab-0cd0-4bf9-a03c-bf80eb7f3886,unknown,unknown,,4368.0,Not Applicable
+Demographics,HTA6_2233,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852068,f8c2869c-e395-45f5-9d91-075aabd8dcb7,unknown,unknown,,3919.0,Not Applicable
+Demographics,HTA6_2234,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852069,94a0aaf1-f43a-4dfa-acd3-11d67b00d591,unknown,unknown,,1614.0,Not Applicable
+Demographics,HTA6_2235,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852070,9866f221-7ac8-4d1b-9540-e25cb2f24eb3,unknown,unknown,,2111.0,Not Applicable
+Demographics,HTA6_2236,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852071,627299de-36da-40af-8f02-b85bf9c87871,unknown,unknown,,7436.0,Not Applicable
+Demographics,HTA6_2237,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852072,ce458ef9-ceb9-4803-bd69-d8921b30969b,unknown,unknown,,2194.0,Not Applicable
+Demographics,HTA6_2238,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852073,9c1ff190-5d6b-4cc3-b6ad-f64c19aa4aa2,unknown,unknown,,,2018.0
+Demographics,HTA6_2239,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852074,5cca97c8-f9eb-43b2-9216-c7b2fed7f287,unknown,unknown,,3998.0,Not Applicable
+Demographics,HTA6_2240,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852075,5bd519f3-8e2f-4757-9145-ef035dc6c3cc,unknown,unknown,,4059.0,Not Applicable
+Demographics,HTA6_2241,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852076,00f1ea2f-a736-4d9a-8a4a-af7df34cdc48,unknown,unknown,,10568.0,Not Applicable
+Demographics,HTA6_2242,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852077,16467a0b-020f-4713-980a-e205207124e0,unknown,unknown,,6357.0,Not Applicable
+Demographics,HTA6_2243,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852078,0e12e44c-3a65-4316-9514-e14fd3b45b4f,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2244,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852079,50c2a605-1d12-4c0a-bad4-74c5a006e875,unknown,unknown,,,2013.0
+Demographics,HTA6_2245,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852080,10ef2233-0bef-4519-a7c0-afff877f6364,unknown,unknown,,715.0,Not Applicable
+Demographics,HTA6_2246,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852081,ba878ac7-2103-4de4-8463-aadeec9a9611,unknown,unknown,,,2019.0
+Demographics,HTA6_2247,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852082,6d7a3087-46c0-4c5f-a082-cf2bace80eda,unknown,unknown,,3639.0,Not Applicable
+Demographics,HTA6_2248,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852083,a3a99e7f-2e60-4050-a169-7d332b3c6a3c,unknown,unknown,,450.0,Not Applicable
+Demographics,HTA6_2249,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852084,9d8a16a2-a047-4f23-9d41-c43dc9de9593,unknown,unknown,,2623.0,Not Applicable
+Demographics,HTA6_2250,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852085,8478a2b3-1fca-40ea-90a9-a4e234b28caa,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2251,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852086,e39da9de-cda9-4138-9f8b-45fad80ad790,unknown,unknown,,4995.0,Not Applicable
+Demographics,HTA6_2252,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852087,345f4b6a-7661-473e-9569-fc3c93286ca6,unknown,unknown,,5471.0,Not Applicable
+Demographics,HTA6_2253,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852088,c371c887-ee0c-41e9-8020-822f1b7dcb88,unknown,unknown,,2042.0,Not Applicable
+Demographics,HTA6_2254,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852089,d037fa9f-ee4e-4bcc-a715-3c6bb70b70a5,unknown,unknown,,94.0,Not Applicable
+Demographics,HTA6_2255,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852090,d4cdab7b-716e-4d0a-94ee-4cddb6ed27c5,unknown,unknown,,4029.0,Not Applicable
+Demographics,HTA6_2256,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852091,ba273a6a-8d9f-49e1-9feb-9ffae2c621f9,unknown,unknown,,143.0,Not Applicable
+Demographics,HTA6_2257,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852092,969740f9-d661-4179-be42-3aaae1d7e746,unknown,unknown,,722.0,Not Applicable
+Demographics,HTA6_2258,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852093,93aded55-64ba-48c8-9cc1-91bc619c9113,unknown,unknown,,8272.0,Not Applicable
+Demographics,HTA6_2259,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852094,96ac4028-c1f8-4fc9-9932-e7995a418e13,unknown,unknown,,6909.0,Not Applicable
+Demographics,HTA6_2260,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852095,89b1e42e-6dfb-43f8-bc29-d6f044cbb58b,unknown,unknown,,988.0,Not Applicable
+Demographics,HTA6_2261,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852096,c9391103-9f63-48cd-9e82-a658d0f9a221,unknown,unknown,,780.0,Not Applicable
+Demographics,HTA6_2262,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852097,bfe54d95-ea26-48c4-9ee5-7b60f332825f,unknown,unknown,,,2014.0
+Demographics,HTA6_2263,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852098,c2efc0f7-80ae-4b9c-8eeb-dea110e11524,unknown,unknown,,900.0,Not Applicable
+Demographics,HTA6_2264,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852099,19da0f03-fcc0-4bcc-be56-9f3d06e9addd,unknown,unknown,,959.0,Not Applicable
+Demographics,HTA6_2265,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852100,baee933b-84dd-42bd-a672-a4983dd4ba7e,unknown,unknown,,377.0,Not Applicable
+Demographics,HTA6_2266,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852101,420ca549-4ac3-41f9-8a8d-9d6f5569cc55,unknown,unknown,,10312.0,Not Applicable
+Demographics,HTA6_2267,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852102,549f98dd-004a-4a88-8318-4980db281ac3,unknown,unknown,,90.0,Not Applicable
+Demographics,HTA6_2268,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852103,67d561b9-e113-4be3-aa8b-40cc0abef21e,unknown,unknown,,151.0,Not Applicable
+Demographics,HTA6_2269,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852104,71a532af-244a-46f1-a2e6-88dd5d714247,unknown,unknown,,2170.0,Not Applicable
+Demographics,HTA6_2270,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852105,ea28b3da-c0f8-4b47-87d6-0788eb6a9fc8,unknown,unknown,,3342.0,Not Applicable
+Demographics,HTA6_2271,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852106,01034f7e-af0c-4c95-ae06-2ff4ae17d4ea,unknown,unknown,,7956.0,Not Applicable
+Demographics,HTA6_2272,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852107,a40aa4f7-fad6-417e-a4a2-dec3a623335c,unknown,unknown,,3091.0,Not Applicable
+Demographics,HTA6_2273,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852108,4213cf6c-3897-403d-9f54-4ed397d60ac5,unknown,unknown,,2900.0,Not Applicable
+Demographics,HTA6_2274,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852109,a962f924-7e06-4d61-bf5d-4d8517ab1ac7,unknown,unknown,,3479.0,Not Applicable
+Demographics,HTA6_2275,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852110,d2442c3c-2498-4f8d-922b-d3cb443dc2eb,unknown,unknown,,,2014.0
+Demographics,HTA6_2276,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852111,7d38d062-66c8-4e02-952f-27f88ee1c6f2,unknown,unknown,,,2017.0
+Demographics,HTA6_2277,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852112,1c1333b9-5cbe-4e0b-87cf-5719134343e9,unknown,unknown,,2910.0,Not Applicable
+Demographics,HTA6_2278,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852113,2d404882-435d-4ce0-ac80-c3a6d105c50d,unknown,unknown,,1612.0,Not Applicable
+Demographics,HTA6_2279,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852114,7764ca46-0be4-4b4e-98d5-0769d410c82f,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2280,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852115,ce91c190-3d47-4fc3-8969-fe83bdc88285,unknown,unknown,,,2015.0
+Demographics,HTA6_2281,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852116,885b16be-7839-49f0-9304-b0d83f5489c7,unknown,unknown,,271.0,Not Applicable
+Demographics,HTA6_2282,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852117,a5732f90-486b-42ec-8c8e-6fbe60bbf2eb,unknown,unknown,,8208.0,Not Applicable
+Demographics,HTA6_2283,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852118,81d5f906-70ee-4152-821d-65175332941c,unknown,unknown,,,1994.0
+Demographics,HTA6_2284,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852119,5316eae7-ad5d-4c5c-9864-19ab365ae25d,unknown,unknown,,5863.0,Not Applicable
+Demographics,HTA6_2285,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852120,569f41b1-c81a-4f10-b366-e24560d47da4,unknown,unknown,,5036.0,Not Applicable
+Demographics,HTA6_2286,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852121,40c248b7-203f-435a-a435-30b5b253058a,unknown,unknown,,6886.0,Not Applicable
+Demographics,HTA6_2287,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852122,bf511143-1ecb-4a46-84d4-37139d62f43c,unknown,unknown,,3738.0,Not Applicable
+Demographics,HTA6_2288,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852124,fc39ac40-d509-40ba-8b4c-30d71d2f1b60,unknown,unknown,,2517.0,Not Applicable
+Demographics,HTA6_2289,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852125,c2ce3b86-e8cd-4556-822e-86592ad3a862,unknown,unknown,,6781.0,Not Applicable
+Demographics,HTA6_2290,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852126,89a17a28-7b08-44c2-b560-822fbe311f06,unknown,unknown,,4748.0,Not Applicable
+Demographics,HTA6_2291,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852128,0007cf22-be32-4fb5-8a8d-6ec6229196af,unknown,unknown,,4233.0,Not Applicable
+Demographics,HTA6_2292,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852129,48ad2263-9f2f-40ec-ae17-6fabd237944a,unknown,unknown,,199.0,Not Applicable
+Demographics,HTA6_2293,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852130,ab59ad6c-9847-4850-ba98-cdb28a3207bc,unknown,unknown,,6234.0,Not Applicable
+Demographics,HTA6_2294,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852132,2536b9e4-471e-44c3-9c91-85cf3456832a,unknown,unknown,,5094.0,Not Applicable
+Demographics,HTA6_2295,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852133,7e41dc54-160f-44bd-81ea-58d3879859bf,unknown,unknown,,,2016.0
+Demographics,HTA6_2296,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852134,17fb1d3f-08e7-453d-808d-985e2308807f,unknown,unknown,,1510.0,Not Applicable
+Demographics,HTA6_2297,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852135,31035493-001c-403e-a496-2ac8e08e584f,unknown,unknown,,1517.0,Not Applicable
+Demographics,HTA6_2298,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852136,594d4622-c14d-4241-934b-7d3c8fa2ba5f,unknown,unknown,,1678.0,Not Applicable
+Demographics,HTA6_2299,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852137,949a5c6f-ee20-4202-82fe-c5d5df5b73aa,unknown,unknown,,1628.0,Not Applicable
+Demographics,HTA6_2300,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852138,103b8ca7-f7e9-45b8-aa9c-8d662d9a8cbf,unknown,unknown,,2803.0,Not Applicable
+Demographics,HTA6_2301,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852139,09a68c7a-b715-439f-9f0d-b90dd46d068b,unknown,unknown,,3285.0,Not Applicable
+Demographics,HTA6_2302,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852140,eed6bc0c-99d4-4675-bee7-9a50dd3abc0a,unknown,unknown,,100.0,Not Applicable
+Demographics,HTA6_2303,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852141,be0ba81a-5e04-413a-8fe2-a5fdb2467a37,unknown,unknown,,1856.0,Not Applicable
+Demographics,HTA6_2304,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852142,43fcfe21-4059-4737-aa0b-4d5da125cca3,unknown,unknown,,1346.0,Not Applicable
+Demographics,HTA6_2305,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852143,520a67e2-80ed-4556-954f-4a6ef915ecc8,unknown,unknown,,3378.0,Not Applicable
+Demographics,HTA6_2306,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852144,ee223d13-66ed-4434-8516-2dddd2b2b135,unknown,unknown,,131.0,Not Applicable
+Demographics,HTA6_2307,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852145,53577fae-c538-4252-89fc-aed1e254a19b,unknown,unknown,,1514.0,Not Applicable
+Demographics,HTA6_2308,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852146,6bf40e08-98fa-4906-b0d0-f37a9740c5b3,unknown,unknown,,1941.0,Not Applicable
+Demographics,HTA6_2309,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852147,99389cd9-1343-49f3-8f7c-5ddb0aadee7f,unknown,unknown,,,2003.0
+Demographics,HTA6_2310,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852149,d3893575-18e3-4e2d-9bed-47610122b6ae,unknown,unknown,,2462.0,Not Applicable
+Demographics,HTA6_2311,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852150,32996a48-3603-49e8-a4fe-e2b539a951ef,unknown,unknown,,,2009.0
+Demographics,HTA6_2312,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852151,7cb3ee55-729b-4e14-8ec7-e7b92e0ef4aa,unknown,unknown,,5900.0,Not Applicable
+Demographics,HTA6_2313,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852152,466becc5-2a6d-42d4-bfe2-f489b6f0a534,unknown,unknown,,2611.0,Not Applicable
+Demographics,HTA6_2314,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852153,13935f2e-a2ba-4b0b-a7d1-14e99a929735,unknown,unknown,,,2009.0
+Demographics,HTA6_2315,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852154,251a58c5-22a2-4a74-baa0-786331255831,unknown,unknown,,4420.0,Not Applicable
+Demographics,HTA6_2316,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852155,8b887d09-7c9c-4e9e-b9eb-90f29a09a91f,unknown,unknown,,5485.0,Not Applicable
+Demographics,HTA6_2317,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852156,8c2ca303-2e19-4166-a557-e6a1e65ad227,unknown,unknown,,54.0,Not Applicable
+Demographics,HTA6_2318,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852157,d89fb2f0-1a3e-42d5-bcdb-cbefcaa21675,unknown,unknown,,5536.0,Not Applicable
+Demographics,HTA6_2319,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852158,cebeb2ac-1f5d-4109-81a6-0544cf2ca890,unknown,unknown,,6426.0,Not Applicable
+Demographics,HTA6_2320,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852159,6a39e855-ab70-4b99-a0be-c1cf16e55946,unknown,unknown,,,2003.0
+Demographics,HTA6_2321,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852160,24a7cab7-f902-4228-8d3d-d9c7d415f938,unknown,unknown,,1188.0,Not Applicable
+Demographics,HTA6_2322,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852161,d8e80f47-0cd7-40b6-a043-8ce2fd326469,unknown,unknown,,2362.0,Not Applicable
+Demographics,HTA6_2323,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852162,6acd1596-023b-4f9b-af95-86722db29372,unknown,unknown,,4451.0,Not Applicable
+Demographics,HTA6_2324,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852163,2771fd00-c3ff-4d17-a5e3-ab598d82e2b3,unknown,unknown,,1003.0,Not Applicable
+Demographics,HTA6_2325,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852164,445f2d01-f32c-43b8-a259-26d04bd81708,unknown,unknown,,2768.0,Not Applicable
+Demographics,HTA6_2326,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852165,7eb78246-9742-454b-bb33-b73ed0c5caab,unknown,unknown,,1829.0,Not Applicable
+Demographics,HTA6_2327,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852166,8dc532d8-6d4d-4e41-b540-3aba5b6cf7a8,unknown,unknown,,9016.0,Not Applicable
+Demographics,HTA6_2328,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852167,d50edf90-b2b0-4753-9fff-7b17ca15da6e,unknown,unknown,,5927.0,Not Applicable
+Demographics,HTA6_2329,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852169,06cbc8b8-bdda-4b25-9bff-b2a653c017ca,unknown,unknown,,,2016.0
+Demographics,HTA6_2330,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852170,55a9b0a7-ff08-4ab1-a374-8af35ad1821a,unknown,unknown,,,2003.0
+Demographics,HTA6_2331,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852171,329c89d9-0f61-438b-9449-486bdc1da6c3,unknown,unknown,,,1997.0
+Demographics,HTA6_2332,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852172,12839d8d-1806-4619-a79f-4d1763ada08a,unknown,unknown,,,1999.0
+Demographics,HTA6_2333,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852173,40d2f770-5464-4831-a41b-13eff28cc2f0,unknown,unknown,,9357.0,Not Applicable
+Demographics,HTA6_2334,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852174,bff8aa5a-5425-47da-98ed-abe047343258,unknown,unknown,,3309.0,Not Applicable
+Demographics,HTA6_2335,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852175,2266568c-9fcf-41df-9e43-6d3c2444e0a1,unknown,unknown,,,1993.0
+Demographics,HTA6_2336,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852176,42640b9e-6b0c-4422-91e9-7f1d1c33d585,unknown,unknown,,6541.0,Not Applicable
+Demographics,HTA6_2337,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852177,4e91780b-af5c-40ae-9d3b-f78108a116b9,unknown,unknown,,5870.0,Not Applicable
+Demographics,HTA6_2338,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852178,92ccf5a2-9e1c-4efb-9b91-d2d943aafacc,unknown,unknown,,,2011.0
+Demographics,HTA6_2339,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852179,3a1b8124-7dd3-4605-8910-7ee56969c217,unknown,unknown,,6497.0,Not Applicable
+Demographics,HTA6_2340,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852181,18dca439-f727-4ff2-b14e-707649c19f84,unknown,unknown,,8415.0,Not Applicable
+Demographics,HTA6_2341,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852182,245cfea9-45d7-46a9-add9-fdf9323110ea,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2342,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852183,2d44ac49-2eec-45ad-9d6f-637f1c191135,unknown,unknown,,,2001.0
+Demographics,HTA6_2343,not hispanic or latino,Female,unknown,Alive,,,,,,,,syn27852184,97763e9a-6111-4279-aa19-0cd5d2354b2b,unknown,unknown,,7394.0,Not Applicable
+Demographics,HTA6_2344,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852185,27665a67-aad5-44de-8530-fe054e8affe4,unknown,unknown,,8646.0,Not Applicable
+Demographics,HTA6_2345,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852186,c7d2c41c-e12f-419a-9de6-5a54574d83a7,unknown,unknown,,,2015.0
+Demographics,HTA6_2346,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852187,fb7ccc65-be79-444d-8703-f96226c5aee0,unknown,unknown,,7236.0,Not Applicable
+Demographics,HTA6_2347,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852188,3b0cb54e-cca4-45c8-a049-82614e2a7444,unknown,unknown,,,2014.0
+Demographics,HTA6_2348,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852189,9f08afca-7611-43d9-a4fa-586eacfac9a4,unknown,unknown,,150.0,Not Applicable
+Demographics,HTA6_2349,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852190,193c9f39-3568-4bf0-a902-362897e459b6,unknown,unknown,,,2014.0
+Demographics,HTA6_2350,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852191,b76e91ce-c4d5-4a85-a43c-69ae6d15ef8d,unknown,unknown,,4595.0,Not Applicable
+Demographics,HTA6_2351,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852193,2389d128-b8aa-42e2-8bfb-9fba1e49e99c,unknown,unknown,,3107.0,Not Applicable
+Demographics,HTA6_2352,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852194,cd568160-6793-4724-94d8-51661573e465,unknown,unknown,,,2004.0
+Demographics,HTA6_2353,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852195,2eaa67e6-54fc-4f4a-935f-e721f4a94669,unknown,unknown,,263.0,Not Applicable
+Demographics,HTA6_2354,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852196,0efdbc6a-2a16-4978-8218-ab400312394d,unknown,unknown,,1006.0,Not Applicable
+Demographics,HTA6_2355,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852197,483d5616-eb63-4dbb-9184-55229cc1bed5,unknown,unknown,,165.0,Not Applicable
+Demographics,HTA6_2356,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852198,b6de32d1-7055-4680-9ddb-e1d6516c4645,unknown,unknown,,,2003.0
+Demographics,HTA6_2357,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852199,432b93e1-95ec-4c5d-967c-6992c2d43389,unknown,unknown,,6762.0,Not Applicable
+Demographics,HTA6_2358,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852200,5878a414-6ba5-4e09-b19d-63497271be03,unknown,unknown,,4242.0,Not Applicable
+Demographics,HTA6_2359,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852201,518c6a8c-1113-4f01-b83d-325d204d86ad,unknown,unknown,,,2006.0
+Demographics,HTA6_2360,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852202,bb52ab2b-422c-4e14-8286-a59dc08a4e2d,unknown,unknown,,230.0,Not Applicable
+Demographics,HTA6_2361,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852203,b2a58c9f-4d76-4c55-a165-037188a624e2,unknown,unknown,,2604.0,Not Applicable
+Demographics,HTA6_2362,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852204,77d36a6a-c46e-4b20-a64a-ff3b3e6bcabc,unknown,unknown,,3780.0,Not Applicable
+Demographics,HTA6_2363,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852205,240cc882-1f4c-4932-a868-b2e31c5eff43,unknown,unknown,,6016.0,Not Applicable
+Demographics,HTA6_2364,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852207,5f4f845d-c5fd-4d3a-b392-d73cc1419a70,unknown,unknown,,,2019.0
+Demographics,HTA6_2365,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852208,e44713e2-0c97-4592-99a7-048f0ae204d7,unknown,unknown,,,2010.0
+Demographics,HTA6_2366,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852209,8ce16421-d8d7-415d-aea0-55d3bf19610d,unknown,unknown,,6867.0,Not Applicable
+Demographics,HTA6_2367,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852211,fa413671-1d7e-4b74-9068-91678489eabc,unknown,unknown,,3705.0,Not Applicable
+Demographics,HTA6_2368,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852212,4b924da1-5dbe-449c-afc6-1884df43148c,unknown,unknown,,,2015.0
+Demographics,HTA6_2369,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852213,9bd3c1f6-d89e-42cf-9cea-f8408d0d8082,unknown,unknown,,3806.0,Not Applicable
+Demographics,HTA6_2370,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852214,d3b906c3-7493-4ee2-bd80-56bbf3700ae4,unknown,unknown,,,1997.0
+Demographics,HTA6_2371,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852215,9da7dba3-e97f-47fd-a94c-172d21114e5a,unknown,unknown,,2318.0,Not Applicable
+Demographics,HTA6_2372,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852216,4b452072-909a-4c0b-94f0-c8dbff9a70f5,unknown,unknown,,,2003.0
+Demographics,HTA6_2373,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852217,81012f83-19cf-4309-970f-8eaae31c92d1,unknown,unknown,,,2000.0
+Demographics,HTA6_2374,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852218,fca7af0f-da7a-444f-9b38-c89dd0e1cca8,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2375,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852219,3bdb1e26-6f9f-403e-a69e-cea65600a2a2,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2376,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852221,b45d9a04-5353-46c5-8c16-61e7510f77e5,unknown,unknown,,,2002.0
+Demographics,HTA6_2377,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852222,5f5cffb6-cf37-4c80-9ec7-2bd5d5569a9c,unknown,unknown,,957.0,Not Applicable
+Demographics,HTA6_2378,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852223,76228289-78a1-47c6-8f69-284f678e989e,unknown,unknown,,1095.0,Not Applicable
+Demographics,HTA6_2379,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852224,3c35bbd0-e24e-48ee-8e1c-3e288582c026,unknown,unknown,,1389.0,Not Applicable
+Demographics,HTA6_2380,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852225,ef2a590d-0bd6-4652-8157-81a7964c2258,unknown,unknown,,,2011.0
+Demographics,HTA6_2381,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852226,8e38e8d3-321c-49e1-a01d-ee5ad531e79a,unknown,unknown,,149.0,Not Applicable
+Demographics,HTA6_2382,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852227,3e140737-0f6c-48b6-b5f4-16f44e0da2ea,unknown,unknown,,884.0,Not Applicable
+Demographics,HTA6_2383,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852228,8a9a913b-94a1-4ed2-be81-15484b7b4a4b,unknown,unknown,,134.0,Not Applicable
+Demographics,HTA6_2384,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852229,1204a7b4-2dce-496a-b508-405e4d606afd,unknown,unknown,,133.0,Not Applicable
+Demographics,HTA6_2385,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852230,de13af89-42ea-40a3-b886-76db6acb2e6b,unknown,unknown,,2670.0,Not Applicable
+Demographics,HTA6_2386,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852231,4b7344df-30aa-4f31-9b3e-ccf1540e5352,unknown,unknown,,,2017.0
+Demographics,HTA6_2387,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852232,a03d026f-a030-40aa-b13a-9f6ccaac6706,unknown,unknown,,1202.0,Not Applicable
+Demographics,HTA6_2388,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852233,b82594e2-fdf8-423b-ba6c-041e17f7fe2d,unknown,unknown,,964.0,Not Applicable
+Demographics,HTA6_2389,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852234,72352b92-2943-459e-80a9-fb1875aaf321,unknown,unknown,,755.0,Not Applicable
+Demographics,HTA6_2390,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852235,82081f76-91aa-42d2-a9d3-3ded8167bdfa,unknown,unknown,,,2018.0
+Demographics,HTA6_2391,not hispanic or latino,Female,white,Dead,,,,,,,,syn27852236,230fd299-ea46-43ba-bea0-c3370f6eb273,unknown,unknown,,,2019.0
+Demographics,HTA6_2392,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852237,a17306c9-930f-4b76-a902-222257a1361e,unknown,unknown,,1211.0,Not Applicable
+Demographics,HTA6_2393,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852238,21a78b69-b3a5-4fd5-bcd9-ac7a778cee94,unknown,unknown,,3644.0,Not Applicable
+Demographics,HTA6_2394,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852239,24eaa066-5fcf-41e5-bd09-6c59449204ab,unknown,unknown,,2672.0,Not Applicable
+Demographics,HTA6_2395,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852240,ae0ce913-799b-4bff-acd5-6d60c9c37fc0,unknown,unknown,,1807.0,Not Applicable
+Demographics,HTA6_2396,not hispanic or latino,Female,black or african american,Alive,,,,,,,,syn27852241,44096190-ab07-4c58-b525-f37cdeef0e19,unknown,unknown,,137.0,Not Applicable
+Demographics,HTA6_2397,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852242,77cadf82-b6fd-44be-be71-1ac69b5a88cd,unknown,unknown,,4434.0,Not Applicable
+Demographics,HTA6_2398,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852243,f2f748de-e6f2-4129-ac52-dcff0c67d07f,unknown,unknown,,3511.0,Not Applicable
+Demographics,HTA6_2399,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852244,e9269968-eb95-426b-a483-5acc844b622d,unknown,unknown,,9675.0,Not Applicable
+Demographics,HTA6_2400,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852245,84b94fe8-e978-4d86-931b-448049ac2bbf,unknown,unknown,,11578.0,Not Applicable
+Demographics,HTA6_2401,not hispanic or latino,Female,white,unknown,,,,,,,,syn27852246,6878f29a-0227-4607-bc26-c07a0891e53c,unknown,unknown,,,Not Applicable
+Demographics,HTA6_2402,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852247,8deb072e-0483-4b3f-ae6f-c186000bc6bb,unknown,unknown,,147.0,Not Applicable
+Demographics,HTA6_2403,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852248,6613957d-27ef-4383-8097-32f83807cb4a,unknown,unknown,,816.0,Not Applicable
+Demographics,HTA6_2404,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852249,589eb734-72c9-487a-b770-708fe5ca1aab,unknown,unknown,,10472.0,Not Applicable
+Demographics,HTA6_2405,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn27852250,9135be92-716d-452f-9f0f-5b0c04ec624c,unknown,unknown,,,2007.0
+Demographics,HTA6_2406,not hispanic or latino,Female,white,Alive,,,,,,,,syn27852251,119dfadc-0ecc-4f0f-8753-cb4aa344b958,unknown,unknown,,5780.0,Not Applicable
+Demographics,HTA6_2407,not hispanic or latino,Female,black or african american,Dead,,,,,,,,syn29542534,2dfd2c26-06d1-423d-a18c-5420289e75e0,unknown,unknown,,,2016.0
+Demographics,HTA6_2408,not hispanic or latino,Female,white,Alive,,,,,,,,syn29542535,190fd4d2-f9a6-467f-b0e8-49ebd550aa74,,,,4067.0,Not Applicable
+Demographics,HTA6_2409,not hispanic or latino,Female,white,Alive,,,,,,,,syn29542536,3fc6081e-0f02-41e0-baa4-fd62bbc27e0c,,,,3979.0,Not Applicable
+Demographics,HTA6_2410,not hispanic or latino,Female,white,Alive,,,,,,,,syn29542537,3bf9e1b1-d0ba-4bb1-b7bb-41f35b6d54c0,,,,7183.0,Not Applicable
+Demographics,HTA6_2468,not hispanic or latino,Female,white,Alive,,,,,,,,,d6b52ad2-8568-47ae-9713-3d8cffa1b560,unknown,,,26143.0,Not Applicable
+Demographics,HTA6_2456,not hispanic or latino,Female,white,Alive,,,,,,,,,538c3315-5b67-466c-8f79-d42f0be2d7e4,unknown,,,21996.0,Not Applicable
+Demographics,HTA6_2451,not hispanic or latino,Female,white,Alive,,,,,,,,,e4814749-2818-49b0-8bb7-9c10e6de5b89,unknown,,,24281.0,Not Applicable
+Demographics,HTA6_2460,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,4bb154fc-d50c-4bc0-8e06-eb72c72797b9,unknown,,,22856.0,Not Applicable
+Demographics,HTA6_2453,hispanic or latino,Female,unknown,Alive,,,,,,,,,fc93b5f5-21fd-4d96-92cb-be8e78c22e38,unknown,,,22193.0,Not Applicable
+Demographics,HTA6_2454,not hispanic or latino,Female,white,Alive,,,,,,,,,edaa1299-02da-4978-955d-8c17fe7dc5a1,unknown,,,22908.0,Not Applicable
+Demographics,HTA6_2455,not hispanic or latino,Female,white,Alive,,,,,,,,,cf8a2fe1-374d-4a67-998d-fa1878c018f5,unknown,,,18991.0,Not Applicable
+Demographics,HTA6_2461,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,01ef19c0-6d26-4992-b998-8c392a1fbcdf,unknown,,,26138.0,Not Applicable
+Demographics,HTA6_2469,not hispanic or latino,Female,white,Alive,,,,,,,,,9c1e8d09-9b48-4bcd-94fe-2b567df61a3c,unknown,,,24652.0,Not Applicable
+Demographics,HTA6_2466,not hispanic or latino,Female,white,Alive,,,,,,,,,2f18e7c7-6b6b-421c-8680-f31d9268b50c,unknown,,,18796.0,Not Applicable
+Demographics,HTA6_2462,not hispanic or latino,Female,white,Alive,,,,,,,,,7efd5fad-2b2d-4f2c-82e1-92ceabf35a8b,unknown,,,25582.0,Not Applicable
+Demographics,HTA6_2463,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,cf6ecbf7-a41d-4893-8d85-e6435212a261,unknown,,,25991.0,Not Applicable
+Demographics,HTA6_2467,not hispanic or latino,Female,white,Alive,,,,,,,,,af4b73bc-847e-48a7-aa4f-9cae1f5ba2dc,unknown,,,24932.0,Not Applicable
+Demographics,HTA6_2490,not hispanic or latino,Female,white,Alive,,,,,,,,,295c15c5-49ec-41a9-89a5-03273714bba3,unknown,,,27105.0,Not Applicable
+Demographics,HTA6_2491,not hispanic or latino,Female,white,Alive,,,,,,,,,2f1ebce7-4efc-47e9-b3e4-b98db9eee153,unknown,,,23531.0,Not Applicable
+Demographics,HTA6_2444,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,5a7a7ede-b53b-4cf1-b05f-7cf5bc96864b,unknown,,,25748.0,Not Applicable
+Demographics,HTA6_2478,hispanic or latino,Female,white,Alive,,,,,,,,,247ea2b9-362b-4224-acfa-8eac884e35cc,unknown,,,29978.0,Not Applicable
+Demographics,HTA6_2447,unknown,Female,unknown,Alive,,,,,,,,,673c25c1-5183-45f3-8157-91a23d3e01fd,unknown,,,23952.0,Not Applicable
+Demographics,HTA6_2448,unknown,Female,white,Alive,,,,,,,,,d9fe1961-1cf8-4e16-970b-ac89ef9067b4,unknown,,,19903.0,Not Applicable
+Demographics,HTA6_2487,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,83156693-fda7-4574-ac03-f810c13f0386,unknown,,,22674.0,Not Applicable
+Demographics,HTA6_2489,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,12f369a9-796c-4ef3-bb52-22276c55760f,unknown,,,25564.0,Not Applicable
+Demographics,HTA6_2483,not hispanic or latino,Female,white,Alive,,,,,,,,,4c4f7257-4e35-4afc-ada5-08b37145ab57,unknown,,,23159.0,Not Applicable
+Demographics,HTA6_2484,not hispanic or latino,Female,white,Alive,,,,,,,,,d5abf30d-8b2f-46cd-8417-eb089214efcc,unknown,,,24713.0,Not Applicable
+Demographics,HTA6_2485,not hispanic or latino,Female,white,Alive,,,,,,,,,a4b21ed7-f1d6-43a4-b05d-9c09036c163e,unknown,,,20665.0,Not Applicable
+Demographics,HTA6_2449,not hispanic or latino,Female,white,Alive,,,,,,,,,ff44869c-1461-4c68-841a-da164b8a65bf,unknown,,,23707.0,Not Applicable
+Demographics,HTA6_2459,not hispanic or latino,Female,white,Alive,,,,,,,,,738d5472-345d-4d51-8e52-a66e0d525acd,unknown,,,18993.0,Not Applicable
+Demographics,HTA6_2450,not hispanic or latino,Female,white,Alive,,,,,,,,,9bd20d0b-8aff-4904-9603-caf4a665d5ef,unknown,,,22609.0,Not Applicable
+Demographics,HTA6_2443,not hispanic or latino,Female,white,Alive,,,,,,,,,9f4c5da2-5b64-4e0d-a617-a852d92bc3d9,unknown,,,29585.0,Not Applicable
+Demographics,HTA6_2457,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,c83a485f-7791-4ae9-9903-585f43c37f04,unknown,,,24471.0,Not Applicable
+Demographics,HTA6_2445,not hispanic or latino,Female,white,Alive,,,,,,,,,68e96e60-7b3a-42a1-9c4a-9560bed18022,unknown,,,22280.0,Not Applicable
+Demographics,HTA6_2458,not hispanic or latino,Female,white,Alive,,,,,,,,,2042d0a8-06f3-468e-9f3e-d1ae1e458581,unknown,,,25202.0,Not Applicable
+Demographics,HTA6_2465,not hispanic or latino,Female,white,Alive,,,,,,,,,b3e0537f-4164-43fa-996e-7d366079431c,unknown,,,19723.0,Not Applicable
+Demographics,HTA6_2481,not hispanic or latino,Female,white,Alive,,,,,,,,,dc295da7-b9df-4c04-b4cd-64549382bc43,unknown,,,21549.0,Not Applicable
+Demographics,HTA6_2482,not hispanic or latino,Female,white,Alive,,,,,,,,,5d38bc02-a1c2-4a31-a9c9-ba2f33ecff93,unknown,,,21549.0,Not Applicable
+Demographics,HTA6_2472,not hispanic or latino,Female,white,Alive,,,,,,,,,4571d940-af3f-4610-9c74-b9109a24d41e,unknown,,,27028.0,Not Applicable
+Demographics,HTA6_2446,not hispanic or latino,Female,white,Alive,,,,,,,,,099f0d71-89ea-4f8e-a61c-39d074bdd1fc,unknown,,,20454.0,Not Applicable
+Demographics,HTA6_2473,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,77fc98d8-03c6-4055-a412-d64ba5f80f2c,unknown,,,27759.0,Not Applicable
+Demographics,HTA6_2474,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,96089f76-09d5-49c2-91d0-05a8db471993,unknown,,,31046.0,Not Applicable
+Demographics,HTA6_2475,unknown,Female,black or african american,Alive,,,,,,,,,ee68655a-b865-46d6-96da-59e947551600,unknown,,,18993.0,Not Applicable
+Demographics,HTA6_2479,unknown,Female,unknown,Alive,,,,,,,,,13132d03-a1c1-4d2c-8422-60debb9e3c92,unknown,,,27393.0,Not Applicable
+Demographics,HTA6_2480,unknown,Female,white,Alive,,,,,,,,,bc740b41-3a27-4f43-a1d0-4d7006eef053,unknown,,,29585.0,Not Applicable
+Demographics,HTA6_2486,not hispanic or latino,Female,white,Alive,,,,,,,,,f1f5172d-6c56-4168-94e3-9ab81b1127a1,unknown,,,24837.0,Not Applicable
+Demographics,HTA6_2452,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,439d0b77-68b0-49e7-a881-f37826243972,unknown,,,22280.0,Not Applicable
+Demographics,HTA6_2470,not hispanic or latino,Female,white,Alive,,,,,,,,,426bd0f1-d55c-4450-b10d-204e7e783d89,unknown,,,25896.0,Not Applicable
+Demographics,HTA6_2471,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,cd086ed7-40f1-4a5c-8616-b8bdc8732fd1,unknown,,,29183.0,Not Applicable
+Demographics,HTA6_2464,not hispanic or latino,Female,black or african american,Alive,,,,,,,,,1b090e25-40d9-40a4-b690-c5294abae6cf,unknown,,,26444.0,Not Applicable
+Demographics,HTA6_2476,not hispanic or latino,Female,white,Alive,,,,,,,,,1ec46495-df5c-48d8-8fd2-bafbad0eee68,unknown,,,28124.0,Not Applicable
+Demographics,HTA6_2477,not hispanic or latino,Female,white,Alive,,,,,,,,,5906ce0e-0e14-4004-9bca-74b8d6b4705c,unknown,,,25202.0,Not Applicable
+Demographics,HTA6_2492,not hispanic or latino,Female,white,Dead,,,,,,,,,d758e0e7-d65f-49dd-8461-adb0c8007505,unknown,unknown,,,unknown
+Demographics,HTA6_2493,unknown,Female,white,Dead,,,,,,,,,5a679808-1e0d-4c3d-966b-d7319efde1ba,unknown,unknown,,,unknown
+Demographics,HTA6_2488,unknown,Female,white,Alive,,,,,,,,,87fe7fa2-a5a2-4440-a22d-2c0b2e405925,unknown,,,26663.0,Not Applicable
+Demographics,HTA6_2502,not hispanic or latino,Female,white,Alive,27394.0,,,,,,,,481a81b4-fa8c-42c5-8eba-6a8b5d1d1893,,,,27394.0,Not Applicable
+Demographics,HTA6_2503,not hispanic or latino,Female,white,Alive,21185.0,,,,,,,,830eafcb-930a-46ec-a82d-7a9f8e0513bd,,,,21185.0,Not Applicable
+Demographics,HTA6_2504,not hispanic or latino,Female,white,Alive,20820.0,,,,,,,,3ed2f349-02e8-4d83-9b2e-670f33529729,,,,20820.0,Not Applicable
+Demographics,HTA6_2500,not hispanic or latino,Female,asian,Alive,17167.0,,,,,,,,0bfa8f2a-ae83-4051-9084-78a38fa43c3e,,,,17167.0,Not Applicable
+Demographics,HTA6_2501,unknown,Female,unknown,Alive,14245.0,,,,,,,,1334c7d8-ac9a-4a0c-b2da-a18f1accd4db,,,,14245.0,Not Applicable
+Demographics,HTA6_2494,not hispanic or latino,Female,white,Alive,27759.0,,,,,,,,393a3b3e-c931-4fbb-82f1-d2d9348a88fd,,,,27759.0,Not Applicable
+Demographics,HTA6_2495,not hispanic or latino,Female,white,Alive,10958.0,,,,,,,,d93c157e-befe-408c-8b57-0c7bf8d3a904,,,,10958.0,Not Applicable
+Demographics,HTA6_2496,not hispanic or latino,Female,white,Alive,24472.0,,,,,,,,913d1a9d-3db8-4804-95ca-b9977cd113eb,,,,24472.0,Not Applicable
+Demographics,HTA6_2497,not hispanic or latino,Female,white,Alive,26298.0,,,,,,,,a936ffb8-bb71-462b-95fd-606f7596226d,,,,26298.0,Not Applicable
+Demographics,HTA6_2499,not hispanic or latino,Female,white,Alive,12784.0,,,,,,,,e18b5a72-0e60-48d7-9dc1-5b68881368ac,,,,12784.0,Not Applicable
+Demographics,HTA6_2498,not hispanic or latino,Female,white,Alive,22281.0,,,,,,,,75d828c5-17b6-4456-9759-ef5935cbe90c,,,,22281.0,Not Applicable
+Demographics,HTA6_2505,not hispanic or latino,Female,white,Alive,19359.0,,,,,,,,4651b87d-6a15-4924-b087-00bc6c92f474,,,,19359.0,Not Applicable
+Demographics,HTA6_2506,not hispanic or latino,Female,black or african american,Alive,16071.0,,,,,,,,40047526-ce37-4f58-9feb-d98c5364aa3f,,,,16071.0,Not Applicable
+Demographics,HTA6_2507,not hispanic or latino,Female,white,Alive,25166.0,,,,,,,,567cee99-e8ad-4422-a9cf-5fbf7c7259ea,,,,25166.0,Not Applicable
+Demographics,HTA6_2508,not hispanic or latino,Female,white,Alive,8766.0,,,,,,,,cca18e2a-b1a2-46fb-ae27-4baa9a547ad2,,,,8766.0,Not Applicable
+Demographics,HTA6_2509,not hispanic or latino,Female,Other,Alive,17167.0,,,,,,,,38b206d1-e9f7-4b55-bfbb-6612f0c06162,,,,17167.0,Not Applicable
+Demographics,HTA6_2519,unknown,Female,unknown,unknown,,,,,,,,,adfd8b41-aaeb-418a-91f8-c28cd6bfb897,,,,,unknown
+Demographics,HTA6_2547,unknown,Female,unknown,unknown,,,,,,,,,ad0a975a-aeaf-4c7d-a60a-36948667c90f,,,,,unknown
+Demographics,HTA6_2511,unknown,Female,unknown,unknown,,,,,,,,,2faab29e-c4c6-404e-bbb9-1db70ed7cdc1,,,,,unknown
+Demographics,HTA6_2512,unknown,Female,unknown,unknown,,,,,,,,,00a64fed-46c9-4842-967f-fe6f894cb2ce,,,,,unknown
+Demographics,HTA6_2513,unknown,Female,unknown,unknown,,,,,,,,,835a3c70-b07a-40f8-9096-c18fcbc76d92,,,,,unknown
+Demographics,HTA6_2514,unknown,Female,unknown,unknown,,,,,,,,,246e1680-30dd-48c0-8b05-506401ad3c0e,,,,,unknown
+Demographics,HTA6_2515,unknown,Female,unknown,unknown,,,,,,,,,30094119-1a90-44b0-b94b-6cd8eff0afc1,,,,,unknown
+Demographics,HTA6_2528,unknown,Female,unknown,unknown,,,,,,,,,87952618-6dd2-48df-89df-5f24a3cc03f9,,,,,unknown
+Demographics,HTA6_2516,unknown,Female,unknown,unknown,,,,,,,,,1a8f9539-ee67-4482-9b43-4afadd3c7d1a,,,,,unknown
+Demographics,HTA6_2520,unknown,Female,unknown,unknown,,,,,,,,,64df9ada-95dd-4b9b-83e7-c92e659b49d6,,,,,unknown
+Demographics,HTA6_2521,unknown,Female,unknown,unknown,,,,,,,,,dfc8b3a5-5d71-4837-a9ca-efbeb406304d,,,,,unknown
+Demographics,HTA6_2517,unknown,Female,unknown,unknown,,,,,,,,,d0aea520-bb85-4e40-9a83-4a432fdca3aa,,,,,unknown
+Demographics,HTA6_2525,unknown,Female,unknown,unknown,,,,,,,,,d88c7b8e-d3d5-48ed-82d3-be23b57b522e,,,,,unknown
+Demographics,HTA6_2527,unknown,Female,unknown,unknown,,,,,,,,,34445cfa-45d4-4084-b6c7-45a5dd1d5506,,,,,unknown
+Demographics,HTA6_2518,unknown,Female,unknown,unknown,,,,,,,,,c994a968-9f18-4e4b-86a3-c3ff8c395c7a,,,,,unknown
+Demographics,HTA6_2526,unknown,Female,unknown,unknown,,,,,,,,,f7eda345-4eab-4074-b3ac-70813a1fd341,,,,,unknown
+Demographics,HTA6_2524,unknown,Female,unknown,unknown,,,,,,,,,611805ae-635b-42d8-9c9a-64487f401655,,,,,unknown
+Demographics,HTA6_2523,unknown,Female,unknown,unknown,,,,,,,,,ffc1c586-8db1-4da8-b6a8-427cded7ed1f,,,,,unknown
+Demographics,HTA6_2522,unknown,Female,unknown,unknown,,,,,,,,,647abd09-6468-4785-ba40-f5df79976400,,,,,unknown
+Demographics,HTA6_2548,unknown,Female,unknown,unknown,,,,,,,,,6e6c4862-d9bf-44ea-97fa-8d93463ae42a,,,,,unknown
+Demographics,HTA6_2549,unknown,Female,unknown,unknown,,,,,,,,,ecc89708-7caa-4206-bb2e-f9667a48b492,,,,,unknown
+Demographics,HTA6_2550,unknown,Female,unknown,unknown,,,,,,,,,6e7c7f1c-9f2c-4c37-ad40-c84f7bbe3421,,,,,unknown
+Demographics,HTA6_2551,unknown,Female,unknown,unknown,,,,,,,,,96080517-01b6-4b85-bd86-a1fe25f369d2,,,,,unknown
+Demographics,HTA6_2552,unknown,Female,unknown,unknown,,,,,,,,,28dbfcae-5407-4e13-b336-30886064c724,,,,,unknown
+Demographics,HTA6_2553,unknown,Female,unknown,unknown,,,,,,,,,5fc7fbc6-4f79-4e78-9add-10049c8a5be7,,,,,unknown
+Demographics,HTA6_2529,unknown,Female,unknown,unknown,,,,,,,,,cd059272-db4d-45f0-ad4b-0619f99d2fd8,,,,,unknown
+Demographics,HTA6_2530,unknown,Female,unknown,unknown,,,,,,,,,a67901eb-2cf4-4d7a-a479-754933ae66f5,,,,,unknown
+Demographics,HTA6_2531,unknown,Female,unknown,unknown,,,,,,,,,848ba188-5214-4015-ba36-ea678dc30545,,,,,unknown
+Demographics,HTA6_2536,unknown,Female,unknown,unknown,,,,,,,,,3d481464-4dc3-4831-8fca-3a29c39140cc,,,,,unknown
+Demographics,HTA6_2535,unknown,Female,unknown,unknown,,,,,,,,,33bcdfb7-282b-4631-9c52-df0bf9f4a3b2,,,,,unknown
+Demographics,HTA6_2534,unknown,Female,unknown,unknown,,,,,,,,,5d109b46-6548-4863-a37a-0bd57f8ba282,,,,,unknown
+Demographics,HTA6_2533,unknown,Female,unknown,unknown,,,,,,,,,1ef57a68-659a-48c7-ba5a-84d9a9cf4429,,,,,unknown
+Demographics,HTA6_2532,unknown,Female,unknown,unknown,,,,,,,,,783fe8bc-dd77-4ea4-934e-d41954a64e5b,,,,,unknown
+Demographics,HTA6_2541,unknown,Female,unknown,unknown,,,,,,,,,188b00c7-b86d-4183-8e1b-873b22cd8642,,,,,unknown
+Demographics,HTA6_2546,unknown,Female,unknown,unknown,,,,,,,,,3ec76b85-51b7-4de0-bfde-17aa854a629f,,,,,unknown
+Demographics,HTA6_2545,unknown,Female,unknown,unknown,,,,,,,,,6b7515e9-2821-48e8-aa3b-c803e6b8ee1a,,,,,unknown
+Demographics,HTA6_2540,unknown,Female,unknown,unknown,,,,,,,,,07e2e607-a0e9-4765-a09f-849a2a0fdd3a,,,,,unknown
+Demographics,HTA6_2544,unknown,Female,unknown,unknown,,,,,,,,,a5167cd8-8253-4825-8171-fd9da0e12025,,,,,unknown
+Demographics,HTA6_2543,unknown,Female,unknown,unknown,,,,,,,,,b012bd16-5d9e-478b-bafc-11081426d2ad,,,,,unknown
+Demographics,HTA6_2539,unknown,Female,unknown,unknown,,,,,,,,,71e7ddeb-ae36-4e31-8ed5-a1bd8e532a7d,,,,,unknown
+Demographics,HTA6_2537,unknown,Female,unknown,unknown,,,,,,,,,28a8e1c5-64f0-4b28-b571-de51ce0c7de3,,,,,unknown
+Demographics,HTA6_2538,unknown,Female,unknown,unknown,,,,,,,,,84a3d911-da9b-4661-b1e6-18fdec87841b,,,,,unknown
+Demographics,HTA6_2542,unknown,Female,unknown,unknown,,,,,,,,,107749df-da2b-423f-9ff6-c162c0cd9ccd,,,,,unknown
+Demographics,HTA6_2554,unknown,Female,unknown,unknown,,,,,,,,,b511f3f4-bfe6-40ac-a27f-e0380e448181,,,,,unknown
+Demographics,HTA6_2510,unknown,Female,unknown,unknown,,,,,,,,,e5ad3e0c-48eb-4c9d-b06d-8ba048aaa18c,,,,,unknown
