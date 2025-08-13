@@ -1,4 +1,4 @@
-import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 
 from analysis.models import DCIS_classification_model
@@ -40,14 +40,18 @@ def evaluate_model(merged_df):
     y = merged_df['Tumor Grade']
     y = create_numerical_classes(y)
 
-    model = DCIS_classification_model("forest")
+    model = DCIS_classification_model("lda")
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42, shuffle=True)
-    model.fit(X_train, y_train, use_grid_search=False)
+    model.fit(X_train, y_train, use_grid_search=True)
     y_pred = model.predict(X_test)
 
     my_logger.info(f"Displaying classification report for {model.model_type.upper()}: \n")
-    print(classification_report(y_pred=y_pred, y_true=y_test))
+    report = classification_report(y_pred=y_pred, y_true=y_test, output_dict=True)
+    print(classification_report(y_pred=y_pred, y_true=y_test, output_dict=False))
+    my_logger.info("Saving classification report")
+    report_df = pd.DataFrame(report)
+    report_df.to_csv("data/outputs/classification_report.csv", index = False)
     my_logger.info(f"The overall accuracy of {model.model_type.upper()} is {accuracy_score(y_pred=y_pred,y_true=y_test)}")
 
     plot_confusion_matrix(y_pred=y_pred, y_true=y_test, title = f'Confusion Matrix For {model.model_type.upper()}')

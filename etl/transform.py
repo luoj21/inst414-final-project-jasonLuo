@@ -94,6 +94,23 @@ def standardize_age_at_diagnosis(diagnostics_df):
 
     return diagnostics_df
 
+def create_age_tumor_interaction(merged_df):
+    """Creates a tumor and age interaction term as a feature
+    
+    Parameters:
+    - merged_df: the merged data frame that was outputted from the etl
+    
+    Returns:
+    None"""
+
+
+    mapping = {"G3": 3,
+               "G2": 2,
+               "G1": 1}
+    numerical_grade = merged_df['Tumor Grade'].map(mapping)
+
+    merged_df['Age_Grade_Score'] = numerical_grade * merged_df['Age at Diagnosis']
+    return merged_df
 
 
 
@@ -145,6 +162,16 @@ def transform_data(demographics, diagnostics, molecular_test):
     merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].fillna(0)
 
     my_logger.info(f'### Data has any NAs: {merged_df.isna().any().any()} ###')
+
+    # Convert to appropriate data types
+    merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].astype(int)
+    merged_df['Days to Last Known Disease Status'] = merged_df['Days to Last Known Disease Status'].astype(int)
+
+    # New feature that counts the number of positive biomarkers
+    merged_df['Num_Positive_Biomarkers'] = merged_df['ERBB2'] + merged_df['ESR1'] + merged_df['HER2'] + merged_df['PGR']
+
+    # Nuew feature for age vs tumor grade interaction:
+    merged_df = create_age_tumor_interaction(merged_df)
 
     # Export to .csv
     merged_df.to_csv('data/transformed_data/merged_df.csv', index=False)
