@@ -3,6 +3,7 @@ from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis 
 from sklearn.model_selection import GridSearchCV
+from logger_config import my_logger
 
 
 class DCIS_classification_model:
@@ -55,7 +56,7 @@ class DCIS_classification_model:
             grid_search = GridSearchCV(self.model, param_grid, cv=5, scoring='accuracy')
             grid_search.fit(X_train, y_train)
             self.model = grid_search
-            print(f"Best parameters for {self.model_type.upper()}: {grid_search.best_params_}")
+            my_logger.info(f"Best parameters for {self.model_type.upper()}: {grid_search.best_params_}")
 
         else:
             self.model.fit(X_train, y_train)

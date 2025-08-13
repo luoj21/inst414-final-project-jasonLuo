@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+from logger_config import my_logger
 
 def standardize_tumor_values(diagnostics_df):
     """Converts tumor grade to a standardized format
@@ -143,16 +144,12 @@ def transform_data(demographics, diagnostics, molecular_test):
     # Turn NAs in Days to Recurrence to 0
     merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].fillna(0)
 
-    print(f'### Data has any NAs: {merged_df.isna().any().any()} ###')
+    my_logger.info(f'### Data has any NAs: {merged_df.isna().any().any()} ###')
 
     # Export to .csv
     merged_df.to_csv('data/transformed_data/merged_df.csv', index=False)
     return merged_df
-    
 
-
-if __name__ == "__main__":
-    transform_data()
 
     
 

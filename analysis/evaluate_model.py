@@ -5,6 +5,7 @@ from analysis.models import DCIS_classification_model
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, accuracy_score
 from vis.visualizations import plot_confusion_matrix
+from logger_config import my_logger
 
 def create_numerical_classes(y):
     """Converts tumor grade to an integer between 0 and 2
@@ -45,15 +46,9 @@ def evaluate_model(merged_df):
     model.fit(X_train, y_train, use_grid_search=False)
     y_pred = model.predict(X_test)
 
-    print(f"Displaying classification report for {model.model_type.upper()}: \n")
+    my_logger.info(f"Displaying classification report for {model.model_type.upper()}: \n")
     print(classification_report(y_pred=y_pred, y_true=y_test))
-    print(f"The overall accuracy of {model.model_type.upper()} is {accuracy_score(y_pred=y_pred,y_true=y_test)}")
+    my_logger.info(f"The overall accuracy of {model.model_type.upper()} is {accuracy_score(y_pred=y_pred,y_true=y_test)}")
 
     plot_confusion_matrix(y_pred=y_pred, y_true=y_test, title = f'Confusion Matrix For {model.model_type.upper()}')
 
-
-
-
-
-if __name__ == "__main__":
-    evaluate_model()
