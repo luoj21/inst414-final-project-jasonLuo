@@ -138,7 +138,7 @@ def plot_days_to_last_follow_up(merged_df):
     plt.show()
 
 
-def plot_roc_curve(y_pred_proba, y_test):
+def plot_roc_curve(y_pred_proba, y_test, title):
     """ Plots multi-class ROC curve
     
     Parameters:
@@ -164,7 +164,7 @@ def plot_roc_curve(y_pred_proba, y_test):
     plt.plot([0,1],[0,1],'b--')
     plt.xlim([0,1])
     plt.ylim([0,1.05])
-    plt.title('Multiclass ROC Curve')
+    plt.title(f'Multiclass ROC Curve For {title}')
     plt.xlabel('False Positive Rate (FPR)')
     plt.ylabel('True Positive Rate (TPR)')
     plt.legend()

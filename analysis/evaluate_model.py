@@ -57,5 +57,5 @@ def evaluate_model(merged_df):
 
     plot_confusion_matrix(y_pred=y_pred, y_true=y_test, title = f'Confusion Matrix For {model.model_type.upper()}')
 
-    plot_roc_curve(y_pred_proba, y_test)
+    plot_roc_curve(y_pred_proba, y_test, title = model.model_type.upper())
 
