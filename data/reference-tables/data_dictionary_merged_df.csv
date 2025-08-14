@@ -4,9 +4,12 @@ Ethnicity,"If hispanic or latino, this takes 1, else it is 0",yes,,Float,"1, 0"
 Age at Diagnosis,Age of diagnosis in years,yes,,Float,
 Year of Diagnosis,the year of diagnosis,yes,,Float,
 Tumor Grade,"Severity of the tumor risk, G1 being the lowest and G3 being the highest",yes,,String,"G1, G2, G3"
-Days to Last Known Disease Status,"Time interval from the date of last follow up to the date of initial pathologic diagnosis, represented as a calculated number of days.",yes,,String,
-Days to Recurrence,Number of days between the date used for index and the date the patient's disease recurred. ,yes,,String,
+Days to Last Known Disease Status,"Time interval from the date of last follow up to the date of initial pathologic diagnosis, represented as a calculated number of days.",yes,,Int,
+Days to Recurrence,Number of days between the date used for index and the date the patient's disease recurred. ,yes,,Int,
+Days to Last Follow up,"Time interval from the date of last follow up to the date of initial pathologic diagnosis, represented as a calculated number of days. If not applicable please enter 'Not Applicable'",yes,,Int,
 ERBB2,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
 ESR1,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
 HER2,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
 PGR,"a particualar gene that was measured during the patients molecular tests, 1 if this gene showed significant expression, else 0",yes,,Float,"1, 0"
+Num_Positive_Biomarkers,"Number of genes that were signifcantly expressed amoung ERB2, ESR1, HER2, PGR",yes,,Int,"0,1,2,3,4"
+Age_Grade_Score,"An interaction term between the age of a patient at diagnosis and a numerical score associated with the tumor grade (G1: 1.25, G2: 1.5, G3: 1.75). This feature is diagnosis age * tumor grade",yes,,Float,
