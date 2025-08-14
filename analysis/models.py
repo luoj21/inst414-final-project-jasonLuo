@@ -17,7 +17,7 @@ class DCIS_classification_model:
         self.use_grid_search = False
         
         if model_type == "svm":
-            self.model = SVC()
+            self.model = SVC(probability=True)
         elif model_type == "knn":
             self.model = KNeighborsClassifier()
         elif model_type == "forest":

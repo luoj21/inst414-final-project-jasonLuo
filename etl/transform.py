@@ -146,10 +146,13 @@ def transform_data(demographics, diagnostics, molecular_test):
     # Convert 'Not Applicable' to NA:
     merged_df = merged_df.map(lambda x: np.nan if x == "Not Applicable" else x)
 
-    # Remove rows where tumor grade is NA
+    # Remove rows where tumor grade is NA, as these dont have classes we can predict and there are not that many of them
+    my_logger.info(f"Number of rows with NA Tumor Grade: {merged_df['Tumor Grade'].isna().sum()} of {merged_df.shape[0]}")
     merged_df = merged_df.dropna(subset=['Tumor Grade'])
 
-    # Remove rows where ethnicity is NA
+    # Remove rows where ethnicity is NA, as ethicity is a minor contributor to DCIS risk and there is already a large class imbalance of those 
+    # who are not hispanic or latino vs those who are hispanic or latino in this dataset
+    my_logger.info(f"Number of rows with NA Ethnicity: {merged_df['Ethnicity'].isna().sum()} of {merged_df.shape[0]}")
     merged_df = merged_df.dropna(subset=['Ethnicity'])
 
     # One hot encoding the molecular test for the 4 genes
