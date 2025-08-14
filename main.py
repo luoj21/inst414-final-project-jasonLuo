@@ -1,6 +1,3 @@
-import pandas as pd
-import numpy as np
-
 from analysis.evaluate_model import *
 from vis.visualizations import *
 from etl.extract import *
