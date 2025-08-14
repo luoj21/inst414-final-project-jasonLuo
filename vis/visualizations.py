@@ -3,7 +3,9 @@ import seaborn as sns
 import numpy as np
 import pandas as pd
 
-from sklearn.metrics import confusion_matrix
+
+from sklearn.metrics import confusion_matrix, roc_curve, auc
+from sklearn.preprocessing import label_binarize
 
 
 
@@ -67,14 +69,21 @@ def plot_ages(merged_df):
     None
     """
     sns.histplot(data = merged_df,
-                 x = 'Age at Diagnosis')
+                 x = 'Age at Diagnosis',
+                 kde=True)
     plt.title('Distribtion of DCIS Patient Ages')
     plt.savefig('data/outputs/age_hist_plot.png', dpi = 200)
     plt.show()
 
 def plot_tumors_by_age(merged_df):
+    """Plots grouped barplot that counts tumor grade for each age group
+    
+    Parameter:
+    - merged_df: the merged df that is the output from the etl
 
-    # class_counts = merged_df.groupby('Tumor Grade').size().reset_index(name = 'counts')
+    Returns:
+    None
+    """
     gap = (max(merged_df['Age at Diagnosis']) - min(merged_df['Age at Diagnosis'])) / 4
     age_bins = list(np.arange(min(merged_df['Age at Diagnosis']), max(merged_df['Age at Diagnosis']), gap))
     age_bins.append(99)
@@ -126,4 +135,38 @@ def plot_days_to_last_follow_up(merged_df):
                  bins=30)
     plt.title('Distribtion of Days to Last Known Disease Status')
     plt.savefig('data/outputs/days_last_follow_up_hist_plot.png', dpi = 200)
+    plt.show()
+
+
+def plot_roc_curve(y_pred_proba, y_test):
+    """ Plots multi-class ROC curve
+    
+    Parameters:
+    - y_pred_proba: the predicted probability of being in a certain class
+    - y_test: the true labels of the test set
+    
+    Returns:
+    None"""
+
+    y_test_binarized=label_binarize(y_test, classes=np.unique(y_test))
+    fpr = {}
+    tpr = {}
+    thresh ={}
+    roc_auc = dict()
+
+    classes = ['G1', 'G2', 'G3']
+
+    for i in range(0,3):    
+        fpr[i], tpr[i], thresh[i] = roc_curve(y_test_binarized[:,i], y_pred_proba[:,i])
+        roc_auc[i] = auc(fpr[i], tpr[i])   
+        plt.plot(fpr[i], tpr[i], linestyle='--', label='%s vs Rest (AUC=%0.2f)'%(classes[i], roc_auc[i]))
+
+    plt.plot([0,1],[0,1],'b--')
+    plt.xlim([0,1])
+    plt.ylim([0,1.05])
+    plt.title('Multiclass ROC Curve')
+    plt.xlabel('False Positive Rate (FPR)')
+    plt.ylabel('True Positive Rate (TPR)')
+    plt.legend()
+    plt.savefig('data/outputs/multiclass_roc.png', dpi = 200)
     plt.show()

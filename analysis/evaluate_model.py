@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from analysis.models import DCIS_classification_model
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, accuracy_score
-from vis.visualizations import plot_confusion_matrix
+from vis.visualizations import plot_confusion_matrix, plot_roc_curve
 from logger_config import my_logger
 
 def create_numerical_classes(y):
@@ -45,6 +45,7 @@ def evaluate_model(merged_df):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42, shuffle=True)
     model.fit(X_train, y_train, use_grid_search=True)
     y_pred = model.predict(X_test)
+    y_pred_proba = model.predict_prob(X_test)
 
     my_logger.info(f"Displaying classification report for {model.model_type.upper()}: \n")
     report = classification_report(y_pred=y_pred, y_true=y_test, output_dict=True)
@@ -55,4 +56,6 @@ def evaluate_model(merged_df):
     my_logger.info(f"The overall accuracy of {model.model_type.upper()} is {accuracy_score(y_pred=y_pred,y_true=y_test)}")
 
     plot_confusion_matrix(y_pred=y_pred, y_true=y_test, title = f'Confusion Matrix For {model.model_type.upper()}')
+
+    plot_roc_curve(y_pred_proba, y_test)
 

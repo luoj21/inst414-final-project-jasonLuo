@@ -66,3 +66,6 @@ class DCIS_classification_model:
         """Returns predicted classes of the trained model"""
         return self.model.predict(X_test)
     
+    def predict_prob(self, X_test):
+        """Returns predicted classes probabilities of the trained model"""
+        return self.model.predict_proba(X_test)
