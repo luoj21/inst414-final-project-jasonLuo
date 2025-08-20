@@ -71,7 +71,7 @@ def plot_ages(merged_df):
     sns.histplot(data = merged_df,
                  x = 'Age at Diagnosis',
                  kde=True)
-    plt.title('Distribtion of DCIS Patient Ages')
+    plt.title('Distribution of DCIS Patient Ages')
     plt.savefig('data/outputs/age_hist_plot.png', dpi = 200)
     plt.show()
 
@@ -133,7 +133,7 @@ def plot_days_to_last_follow_up(merged_df):
                  x = 'Days to Last Known Disease Status',
                  kde=True,
                  bins=30)
-    plt.title('Distribtion of Days to Last Known Disease Status')
+    plt.title('Distribution of Days to Last Known Disease Status')
     plt.savefig('data/outputs/days_last_follow_up_hist_plot.png', dpi = 200)
     plt.show()
 
