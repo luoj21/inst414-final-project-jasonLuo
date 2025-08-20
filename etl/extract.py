@@ -26,6 +26,7 @@ def extract_data():
         my_logger.info('### Done extracting ###')
     
     except:
-        print("Invalid link(s)")
+        my_logger.info("Invalid link(s)")
+        raise IOError()
 
     return demographics, diagnostics, molecular_test
