@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+from logger_config import my_logger
 
 def standardize_tumor_values(diagnostics_df):
     """Converts tumor grade to a standardized format
@@ -93,6 +94,23 @@ def standardize_age_at_diagnosis(diagnostics_df):
 
     return diagnostics_df
 
+def create_age_tumor_interaction(merged_df):
+    """Creates a tumor and age interaction term as a feature
+    
+    Parameters:
+    - merged_df: the merged data frame that was outputted from the etl
+    
+    Returns:
+    None"""
+
+
+    mapping = {"G3": 1.75,
+               "G2": 1.5,
+               "G1": 1.25}
+    numerical_grade = merged_df['Tumor Grade'].map(mapping)
+
+    merged_df['Age_Grade_Score'] = numerical_grade * merged_df['Age at Diagnosis']
+    return merged_df
 
 
 
@@ -122,16 +140,19 @@ def transform_data(demographics, diagnostics, molecular_test):
 
     # Keeping only relavant columns
     cols = ['HTAN Participant ID','Ethnicity', 'Age at Diagnosis' ,'Year of Diagnosis', 'Tumor Grade', 
-            'Days to Last Known Disease Status','Days to Recurrence', 'ERBB2', 'ESR1','HER2', 'PGR']
+            'Days to Last Known Disease Status','Days to Recurrence', 'Days to Last Follow up','ERBB2', 'ESR1','HER2', 'PGR']
     merged_df = merged_df.loc[:, cols]
 
     # Convert 'Not Applicable' to NA:
     merged_df = merged_df.map(lambda x: np.nan if x == "Not Applicable" else x)
 
-    # Remove rows where tumor grade is NA
+    # Remove rows where tumor grade is NA, as these dont have classes we can predict and there are not that many of them
+    my_logger.info(f"Number of rows with NA Tumor Grade: {merged_df['Tumor Grade'].isna().sum()} of {merged_df.shape[0]}")
     merged_df = merged_df.dropna(subset=['Tumor Grade'])
 
-    # Remove rows where ethnicity is NA
+    # Remove rows where ethnicity is NA, as ethicity is a minor contributor to DCIS risk and there is already a large class imbalance of those 
+    # who are not hispanic or latino vs those who are hispanic or latino in this dataset
+    my_logger.info(f"Number of rows with NA Ethnicity: {merged_df['Ethnicity'].isna().sum()} of {merged_df.shape[0]}")
     merged_df = merged_df.dropna(subset=['Ethnicity'])
 
     # One hot encoding the molecular test for the 4 genes
@@ -143,16 +164,23 @@ def transform_data(demographics, diagnostics, molecular_test):
     # Turn NAs in Days to Recurrence to 0
     merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].fillna(0)
 
-    print(f'### Data has any NAs: {merged_df.isna().any().any()} ###')
+    my_logger.info(f'### Data has any NAs: {merged_df.isna().any().any()} ###')
 
+    # Convert to appropriate data types
+    merged_df['Days to Recurrence'] = merged_df['Days to Recurrence'].astype(int)
+    merged_df['Days to Last Known Disease Status'] = merged_df['Days to Last Known Disease Status'].astype(int)
+    merged_df['Days to Last Follow up'] = merged_df['Days to Last Follow up'].astype(int)
+
+    # New feature that counts the number of positive biomarkers
+    merged_df['Num_Positive_Biomarkers'] = merged_df['ERBB2'] + merged_df['ESR1'] + merged_df['HER2'] + merged_df['PGR']
+
+    # New feature for age vs tumor grade interaction:
+    merged_df = create_age_tumor_interaction(merged_df)
+ 
     # Export to .csv
     merged_df.to_csv('data/transformed_data/merged_df.csv', index=False)
     return merged_df
-    
 
-
-if __name__ == "__main__":
-    transform_data()
 
     
 

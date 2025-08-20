@@ -1,7 +1,3 @@
-import pandas as pd
-import numpy as np
-
-
 from analysis.evaluate_model import *
 from vis.visualizations import *
 from etl.extract import *
@@ -20,6 +16,7 @@ def main():
     plot_ages(data)
     plot_ethnicity(data)
     plot_days_to_last_follow_up(data)
+    plot_tumors_by_age(data)
 
 
 if __name__ == "__main__":
